@@ -206,7 +206,7 @@
 						// grid or beeswarm
 						style="left: {(currentId=== 0 && signpost==1)? point.grid_x : point.x}px; top: {(currentId=== 0 && signpost==1)?point.grid_y: point.y}px;">
 						<img class="building" 			
-						src="src/data/uniques_full 2/{dataNamesToIllustrationNames[point.category]?? "mechanic"}.png" alt="storefront">
+						src="src/data/uniques_full/{dataNamesToIllustrationNames[point.category]?? "mechanic"}.png" alt="storefront">
 					</div>
 				{/each}
 			</div>
