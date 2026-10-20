@@ -4,35 +4,23 @@
 	import data from "$data/industry_by_gender.csv"
 	import {
 		scaleLinear,
-		range,
-		min,
-		max,
-		groups,
 		forceSimulation,
 		forceX,
 		forceY,
 		forceCollide,
 		selectAll,
 		axisBottom,
-		easeCubicInOut
 	} from "d3";
-	// import { isMobile, initMobileWatcher } from "$utils/isMobile.js";
 
 	/*** SCROLLY ***/
-	let value = $state(-1);
-	let filteredStages = $derived(
-		copy.genderScroll
-			? copy.genderScroll : []
-	);
-	let currentStage = $derived(filteredStages?.[value]);
-	let currentId = $derived(isNaN(value) || value == -1 ? 0 : +currentStage?.id);
+	let value = $state(0);
+	let filteredStages = $derived(copy.gender)
+	let currentId = $derived(value !== undefined ? value : 0);
 	let signpost = $state(1)
-	let hasStarted =$state(false);
-	// $inspect(currentId)
-	// $inspect(signpost)
+	$inspect(currentId)
 	$effect(()=>{
-		if (currentId ==1) signpost = 1
-		if (currentId == 5) signpost = 5
+		if (currentId <2) signpost = 1
+		if (currentId == filteredStages.length-1) signpost = 5
 	})
 
 	/*** DIMENSIONS ***/
@@ -49,15 +37,15 @@
 		.range([margin.left, width - margin.right - margin.left])
 	);
 
-	const cols = 6
-	const cellWidth = $derived(containerWidth * .75/ cols)
-	const cellHeight = $derived(containerHeight *.75 / 5)
+	const cols = 8
+	const cellWidth = $derived(containerWidth * .75/ cols) 
+	const cellHeight = $derived(containerHeight *.75 / 4)
 
 	const gridX = function(i) {
-		return (i % cols) * cellWidth + (containerWidth /2 - cellWidth*3) + cellWidth/3
+		return (i % cols) * cellWidth + (containerWidth /2 - cellWidth*4)
 	}
 	const gridY = function(i) {
-		return (containerHeight - containerHeight * .75) / 2 + Math.floor(i / cols) * cellHeight 
+		return containerHeight / 2 + (Math.floor(i / cols) * cellHeight) - cellHeight*2
 	}
 
 	let storePositions = $derived.by(() => {
@@ -73,7 +61,7 @@
 				size: d.total_names 
 			}
 		})
-		let storeHeight = 50;
+		let storeHeight = 45;
 		let xStrength = .2;
 		let yStrength = 1.5;
 		let collideRadius = storeHeight;
@@ -92,31 +80,34 @@
 	$effect(() => {
 		// Sets up axis
 		if (containerWidth > 0) {
-			selectAll("#beeswarm .x-axisog").call(
+			selectAll("#beeswarm .x-axis").call(
 				axisBottom(xScale)
 			.tickValues([0, 25,50,75,100])
-			// .tickSizeInner(-height)
 			.tickFormat((d) => `${d}/${100-d}`))
 			.selectAll("text").attr("dy", "1em")
+			.style("font-size", "14px"); 
 			selectAll("#beeswarm x-grid").call(axisBottom(xScale))
 		}
 		})
 	
-	const inactiveIds = [1]
 	const stepPositions = [
-		"center", "center", "right", "left", "right", "right", "right", "", ""
+		"center", "center", "center", "center", 
+		"right", "center", "center", "right",
+		"right", "right"
 	]
 
 	const highlight_key = 
 		[
 		[],
 		[],
-		["auto_retail_service"], 
-		["nail_salon", "child_care", "boutique"],
-		["hair_salon", "barber"], 
+		["pet", "child_care"],
+		["auto_retail_service", "garden_center", "hardware", "home_improvement"], 
 		["garden_center", "florist"], 
-		["coffee","bakery","butcher_deli", "pizzeria" ], 
-		[]]
+		["restaurant"],
+		["pizzeria", "bar", "restaurant"], 
+		["restaurant","diner","coffee","bakery"],
+		["furniture_and_home", "antique and vintage"],
+		[],]
 
 	const dataNamesToIllustrationNames = {
 		"bowling and arcade": 'pizza',
@@ -148,7 +139,7 @@
 		"florist": "flower-shop",
 		"music": "music",
 		"grocery": "grocery",
-		"liquor_smoke": "grocery",
+		"liquor_smoke": "liquor",
 		"tech": "tech",
 		"furniture_and_home": "furniture",
 		"drugstore":"drugstore",
@@ -163,11 +154,9 @@
 		"bike": "bike",
 		"car_dealership": "car"
 	}
-	$inspect(storePositions)
 </script>
 
 <div class="outer-container">
-	<!-- <h2>Scrolly <span>{value || "-"}</span></h2> -->
 	<div class="sticky-container">
 		<div id="beeswarm" class="chart-container"
 			bind:clientHeight={containerHeight}
@@ -175,7 +164,7 @@
 			>	
 				<svg {width} {height}>
 					<g
-						class="axis x-axisog"
+						class="axis x-axis"
 						transform="translate({margin.left}, {height - margin.top - margin.bottom})"
 						opacity={(currentId > 0 ||signpost ==5) ? 1 : 0}
 					></g>
@@ -184,7 +173,6 @@
 					<div class="male" >More male</div>
 					<div class="female" >More female</div>
 				</div>
-			<!-- {/if} -->
 			<div class="storefronts-overlay" style="width: {width}px; height: {height}px;">
 				<div class="pct-labels">
 					{#each storePositions as point}
@@ -212,15 +200,13 @@
 				{#each storePositions as point, i}
 					<div class ="store"
 						class:beeswarm={currentId > 0 || signpost ==5} 
-						class:all={currentId == 0}
+						class:static={currentId<2 && signpost==1}
 					    class:highlighted={highlight_key[currentId]?.includes(point.category)}
-						
-						class:off={highlight_key[currentId].length != 0 && !highlight_key[currentId]?.includes(point.category)}
-						style="left: {(currentId===0 && signpost==1)? point.grid_x : point.x}px; top: {(currentId===0 && signpost==1 )?point.grid_y: point.y}px;">
+						class:off={currentId > 1 && !highlight_key[currentId]?.includes(point.category)}
+						// grid or beeswarm
+						style="left: {(currentId=== 0 && signpost==1)? point.grid_x : point.x}px; top: {(currentId=== 0 && signpost==1)?point.grid_y: point.y}px;">
 						<img class="building" 			
-						src="src/data/uniques_full/{dataNamesToIllustrationNames[point.category]?? "mechanic"}.png" alt="storefront">
-						<!-- <img class="window" src="src/data/storefronts/clothing shop.jpg" alt="storefront"> -->
-						{console.log(dataNamesToIllustrationNames[point.category], point.category)}
+						src="src/data/uniques_full 2/{dataNamesToIllustrationNames[point.category]?? "mechanic"}.png" alt="storefront">
 					</div>
 				{/each}
 			</div>
@@ -230,15 +216,17 @@
 
 	<div class="scrolly-outer {stepPositions[currentId]}" >
 		<Scrolly bind:value>
-			{#each [0, 1, 2, 3, 4, 5,6] as num}
-				{#if filteredStages[num]}
+			{#each filteredStages as text, num}
+			
+				<!-- {#if  filteredStages[num]} -->
 					<div
 						class="step {stepPositions[num]}"
-						class:active={num === currentId && !inactiveIds.includes(num)}
+						class:active={num === currentId}
+						class:hidden={text.length===0}
 					>
-						<p>{@html filteredStages[num].text}</p>
+						<p>{@html text}</p>
 					</div>
-				{/if}
+				<!-- {/if} -->
 			{/each}
 		</Scrolly>
 	</div>
@@ -312,7 +300,7 @@
 	.store.highlighted .window  {
 		opacity: 1;
 	}
-	.store.all {
+	.store.static {
 		opacity: .9;
 	}
 	.x-grid line {
@@ -383,11 +371,6 @@
 		width: 100%;
 	}
 
-	:global(text) {
-		font-family: "Atlas Grotesk";
-		font-size: medium;
-		font-weight: 600;
-	}
 	
 	.transparent-placeholder {
 		height: 100vh;
@@ -429,6 +412,10 @@
 		background: rgba(255, 255, 255, 0.939);
 		align-items: center;
 		border: 2px solid black;
+	}
+
+	.step.hidden {
+		opacity: 0;
 	}
 
 	.step.active.center {

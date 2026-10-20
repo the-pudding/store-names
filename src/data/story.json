@@ -1,0 +1,46 @@
+{
+  "game": [],
+  "intro": [
+    "Who’s in a name?",
+    "Storefronts everywhere bear the names of their owners. On my daily walk to the train, I pass Dave’s Fresh Pasta, Anne Marie’s Salon, and Nellie’s Flowers.",
+    "An eponymous store name evokes familiarity, suggesting passersby are on a first-name basis with the neighborly baker, mechanic, or stylist behind it.",
+    "But there’s more to it: A store name signals authority and trustworthiness, and eponyms are no exception. Research shows first names carry connotations about age, socio-economic status, ethnicity, and a variety of personal qualities like intelligence, confidence, and honesty.",
+    "Our expectations of names are on display on the awnings and signboards all around us.",
+    "I analyzed more than 580,000 eponymns from a dataset of U.S. storefronts open at any point since 2004. To find names, I looked for words preceding an apostrophe-s and took steps to validate and deduplicate the data and account for several special cases, like when a name is referring to its location.",
+    "The result underlines the specificity of our perceptions about who sells what."
+  ],
+  "gender": [
+    "For one, we have granular expectations when it comes to gender.",
+    "",
+    "In some cases, the gender breakdown follows—or exaggerates—stereotypes. \r\n\r\n\r\n\n \nFor example, both categories related to caretaking are among the most female.",
+    "Meanwhile, categories associated with physical labor are overwhelmingly male.",
+    "Compare garden centers to florists, which use female names 70 percent of the time.",
+    "However, despite the traditional association between women and cooking, nearly 70 percent of restaurant eponymns are male.",
+    "And the kind of dining establishment matters: pizzerias, bars, and delis are relatively likelier to use male names...",
+    "... while diners, cafes, and bakeries are relatively likelier to use female names.",
+    "Furniture stores mostly use male names, while antique and vintage stores mostly use female names."
+  ],
+  "street": [
+    "Noah is by far the most popular name on daycares, commonly referencing Noah's Ark.",
+    "For a tattoo, chances are you're headed to <i>Charlie's</i>, <i>Lou's</i>, or—if you're Lucky—Lucky's.",
+    "We can see the names used most frequently for cultural cuisines, like Chinese restaurants,",
+    "Mexican restaurants,",
+    "pizzerias,",
+    "and pubs.",
+    "Kim is the most common name on hair and nail salons. \r\nHowever, given the counts of <i>Lee</i> and <i>Le</i>, <i>Kim</i> might be a last name on nail salons more often than on hair salons.",
+    "The top auto mechanic names are all among the most common names overall.",
+    "But smaller names often have stronger ties to a business category.\\n\\nTo see this, let's look at the names with the highest <i>share </i>of auto shops.\\n\\nOf all Conrad's, 41.6 percent are mechanics. That's more than any other name.",
+    "These associations often relate thematically.\\n\\n For example, <i>Faye</i>, <i>April</i>, <i>Lilly</i>, and <i>Lily</i> are among the most overrepresented on florists",
+    "Likewise, <i>Diva</i> has the strongest association to hair salons.",
+    "<i>Noah</i> and <i>Kitty</i> are among the most overrepresented on pet shops.\\n\\n Notably, eight other names are even more strongly associated with pet shops than <i>Kitty</i>.\",",
+    "On home improvement services—plumbing, landscaping, construction, and on—several of the most overrepresented names are last names, seeming to project professionalism over warmth.",
+    "On the other hand, <i>Troy</i> conjures a fairly vivid image of the man coming to fix your flooring.",
+    "Sometimes, one name stands apart. \\n\\n <i>Sun</i> appears on laundry services at twice the frequency of <i>Han</i>, the second-most overrepresented name.",
+    "Before, we saw <i>Le</i> was the fourth-most common name on nail salons. \\n\\n A quarter of <i>Le's</i>  are nail salons—that's a far greater share than any other name.",
+    "...",
+    "...",
+    "...",
+    "...",
+    "liquor store"
+  ]
+}

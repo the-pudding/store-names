@@ -1,24 +1,10 @@
 <script>
-	import copy from "$data/story.json";
 	import counts from "$data/name_counts_by_industry.csv"
-	import percents from "$data/name_distributions.csv"
+	import percents from "$data/_name_distributions.csv"
 	import {
 		scaleLinear,
-		scaleLog,
-		range,
-		min,
-		max,
-		groups,
-		forceSimulation,
-		forceX,
-		forceY,
-		forceCollide,
-		selectAll,
-		axisBottom,
-		easeCubicInOut
 	} from "d3";
 	import { flip } from 'svelte/animate';
-	import { onMount } from 'svelte';
 	
 	let { category, metric } = $props()
 
@@ -53,7 +39,6 @@
 		"percents": {"top": "#ffc459", "list": "#ffdfa6"}
 
 	}
-	$inspect(maxWidth)
 </script>
 <svelte:window onkeydown={handleKeydown} />
 	<div class="names-container">
@@ -116,9 +101,6 @@
 		background: white;
 	}
 
-	/* .name.top {
-		background-color: #98caff !important;
-	} */
 	.name {
 		height: 100%;
 		display: flex;            
