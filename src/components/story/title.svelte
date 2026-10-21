@@ -1,6 +1,5 @@
 <script>
 	import copy from "$data/story.json";
-	import data from "$data/gender.csv"
 	import {
 		scaleLinear,
 		range,
@@ -15,7 +14,6 @@
 		axisBottom,
 		easeCubicInOut
 	} from "d3";
-	// import { isMobile, initMobileWatcher } from "$utils/isMobile.js";
 	let text = copy?.intro
 
 	let numGraphs = text.length-1;
@@ -73,7 +71,6 @@
 		font-size: 64px;
 		font-weight: 600;
 		margin-bottom: 70px;
-		/* color: rgb(244, 130, 0); */
 		font-family: var(--font-sans);
 	}
 	
