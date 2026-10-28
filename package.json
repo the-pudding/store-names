@@ -2,6 +2,7 @@
 	"name": "svelte-starter",
 	"version": "6.22.0",
 	"scripts": {
+		"categorize": "node tasks/categorize-chains.js",
 		"gdoc": "node tasks/fetch-google.js",
 		"style": "node tasks/style-dictionary.js",
 		"dev": "vite dev",
@@ -39,5 +40,8 @@
 	"engines": {
 		"node": ">= 22.22.0"
 	},
-	"browserslist": "> 0.5%, last 4 versions, not ie <= 11, not ie_mob <= 11"
+	"browserslist": "> 0.5%, last 4 versions, not ie <= 11, not ie_mob <= 11",
+	"dependencies": {
+		"@google/genai": "^2.31.0"
+	}
 }

@@ -1,0 +1,2458 @@
+name,first_name,count,max_state_count,region_concentrated
+wendy's,wendy,7602,662,FALSE
+papa john's pizza,john,4429,372,FALSE
+jimmy john's,jimmy john,3326,329,FALSE
+jersey mike's subs,mike,3251,418,FALSE
+carter's,carter,2431,292,FALSE
+aaron's,aaron,2380,280,FALSE
+denny's,denny,2121,483,FALSE
+casey's general store,casey,1941,477,FALSE
+claire's,claire,1756,176,FALSE
+marco's pizza,marco,1508,213,FALSE
+auntie anne's,anne,1436,147,FALSE
+carl's jr,carl,1361,761,TRUE
+casey's,casey,996,160,FALSE
+moe's southwest grill,moe,987,142,FALSE
+francesca's,francesca,746,72,FALSE
+victoria's secret,victoria,672,74,FALSE
+rita's italian ice and frozen custard,rita,652,194,FALSE
+ollie's bargain outlet,ollie,633,56,FALSE
+charley's grilled subs,charley,631,43,FALSE
+trader joe's,joe,627,216,TRUE
+fred's super dollar,fred,618,114,FALSE
+taco john's,john,602,91,FALSE
+chester's chicken,chester,581,85,FALSE
+victoria's secret pink,victoria,566,71,FALSE
+spencer's retail,spencer,557,46,FALSE
+freddy's frozen custard and steakburgers,freddy,554,92,FALSE
+ben and jerry's,jerry,553,64,FALSE
+ben and jerry's,ben,553,65,FALSE
+jet's pizza,jet,541,181,TRUE
+cici's pizza,cici,526,139,FALSE
+leslie's,leslie,514,108,FALSE
+macy's,macy,496,66,FALSE
+stewart's shops,stewart,401,386,TRUE
+david's bridal,david,382,37,FALSE
+buddy's home furnishings,buddy,373,89,FALSE
+simple simon's pizza,simon,367,184,TRUE
+leslie's swimming pool supplies,leslie,367,78,FALSE
+jason's deli,jason,360,138,TRUE
+hungry howie's pizza,howie,344,171,TRUE
+mountain mike's pizza,mike,336,293,TRUE
+dave's hot chicken,dave,317,73,FALSE
+beef 'o' brady's,brady,313,189,TRUE
+tilly's,tilly,279,111,TRUE
+logan's roadhouse,logan,272,40,FALSE
+romano's macaroni grill,romano,263,40,FALSE
+bj's restaurant and brewhouse,bj,263,70,FALSE
+spencer's,spencer,261,42,FALSE
+jack's,jack,256,159,TRUE
+landry's,landry,254,39,FALSE
+famous dave's,dave,251,27,FALSE
+pf chang's china bistro,chang,241,30,FALSE
+anna's linens,anna,235,82,TRUE
+sam's club,sam,223,29,FALSE
+papa gino's,gino,216,168,TRUE
+nathan's famous,nathan,212,89,TRUE
+ryan's,ryan,201,26,FALSE
+bj's wholesale club,bj,200,34,FALSE
+tony's pizza,tony,197,28,FALSE
+joe's crab shack,joe,194,42,FALSE
+dave and buster's,dave,181,22,FALSE
+dave and buster's,buster,180,23,FALSE
+lenny's sub shop,lenny,179,38,FALSE
+levi's outlet store,levi,178,26,FALSE
+andy's frozen custard,andy,172,35,FALSE
+gordon's jewelers,gordon,170,37,FALSE
+ruth's chris steak house,ruth,169,20,FALSE
+rita's italian ice,rita,168,39,FALSE
+jeremiah's italian ice,jeremiah,165,86,TRUE
+giovanni's pizza,giovanni,165,37,FALSE
+mariah's cookies,mariah,160,26,FALSE
+macy's backstage,macy,156,24,FALSE
+wild bill's tobacco,bill,150,127,TRUE
+tully's coffee,tully,150,86,TRUE
+larry's giant subs,larry,144,76,TRUE
+lee's famous recipe chicken,lee,144,42,FALSE
+lori's gifts,lori,143,26,FALSE
+mimi's cafe,mimi,141,57,TRUE
+sonny's bbq,sonny,139,93,TRUE
+gabe's,gabe,136,21,FALSE
+gigi's cupcakes,gigi,131,22,FALSE
+sam's southern eatery,sam,131,30,FALSE
+sal's pizza,sal,128,36,FALSE
+shane's rib shack,shane,128,67,TRUE
+kim's nails,kim,124,15,FALSE
+al's formal wear,al,123,90,TRUE
+sunglass hut at macy's,macy,122,20,FALSE
+amy's hallmark shop,amy,121,13,FALSE
+joe's pizza,joe,119,25,FALSE
+rita's,rita,119,18,FALSE
+dick's sporting goods,dick,117,16,FALSE
+tommy's express car wash,tommy,116,19,FALSE
+jerry's subs and pizza,jerry,115,67,TRUE
+floyd's 99 barbershop,floyd,115,24,FALSE
+daniel's jewelers,daniel,115,86,TRUE
+max and erma's,max,112,42,TRUE
+max and erma's,erma,112,42,TRUE
+joe's barber shop,joe,109,12,FALSE
+bob's discount furniture,bob,109,15,FALSE
+jersey mike's,mike,109,11,FALSE
+jake's fireworks,jake,109,58,TRUE
+spencer's gifts,spencer,108,11,FALSE
+pizza boli's,boli,108,67,TRUE
+bahama buck's,buck,108,67,TRUE
+dotty's,dotty,106,70,TRUE
+buck's pizza,buck,106,24,FALSE
+camille's sidewalk cafe,camille,105,19,FALSE
+romeo's pizza,romeo,105,64,TRUE
+hangry joe's hot chicken and wings,joe,105,37,TRUE
+angelo's pizza,angelo,105,17,FALSE
+roberto's taco shop,roberto,104,69,TRUE
+icing by claire's,claire,102,17,FALSE
+fred's pharmacy,fred,102,28,FALSE
+erbert and gerbert's,gerbert,101,47,TRUE
+blake's lotaburger,blake,100,93,TRUE
+mike's auto repair,mike,99,10,FALSE
+mario's pizza,mario,99,14,FALSE
+mike's barber shop,mike,99,11,FALSE
+chad's chili dogs,chad,97,3,FALSE
+giordano's,giordano,96,58,TRUE
+shari's cafe and pies,shari,95,46,TRUE
+ike's love and sandwiches,ike,94,67,TRUE
+alberto's mexican food,alberto,94,88,TRUE
+anthony's pizza,anthony,94,14,FALSE
+rita's ice custard happiness,rita,92,29,FALSE
+jeni's splendid ice creams,jeni,91,11,FALSE
+han-dee hugo's,hugo,90,90,TRUE
+filiberto's mexican food,filiberto,90,77,TRUE
+jimmy's pizza,jimmy,90,46,TRUE
+sunglass hut at macy's - closed,macy,90,9,FALSE
+aroma joe's,joe,89,38,TRUE
+del's frozen lemonade,del,88,44,TRUE
+frederick's of hollywood,frederick,88,29,FALSE
+luigi's pizza,luigi,88,18,FALSE
+tudor's biscuit world,tudor,87,71,TRUE
+john's barber shop,john,87,11,FALSE
+lucky's,lucky,86,7,FALSE
+don pablo's,pablo,85,12,FALSE
+damon's grill,damon,84,21,FALSE
+gloria jean's coffees,gloria jean,84,16,FALSE
+gino's pizza,gino,83,19,FALSE
+dominick's,dominick,83,74,TRUE
+coco's bakery,coco,83,46,TRUE
+joe's place,joe,82,10,FALSE
+mr jim's pizza,jim,82,77,TRUE
+jimmy's egg,jimmy,82,37,TRUE
+ryan's grill buffet and bakery,ryan,82,9,FALSE
+lady jane's haircuts for men,jane,82,14,FALSE
+amy's hallmark,amy,81,7,FALSE
+sam's club gas station,sam,81,9,FALSE
+morton's the steakhouse,morton,81,12,FALSE
+bob's discount furniture and mattress store,bob,80,25,FALSE
+buddy's home furnishing,buddy,80,32,TRUE
+t-mobile at sam's club,sam,80,11,FALSE
+clark's garage door and gate repair,clark,80,69,TRUE
+giovanni's,giovanni,78,10,FALSE
+bob's barber shop,bob,78,7,FALSE
+ben's soft pretzels,ben,78,37,TRUE
+levi's store,levi,78,21,FALSE
+mike's place,mike,77,8,FALSE
+lee's sandwiches,lee,76,61,TRUE
+keke's breakfast cafe,keke,76,61,TRUE
+rita's water ice,rita,76,36,TRUE
+little caesar's pizza,caesar,75,14,FALSE
+coco's bakery restaurant,coco,75,66,TRUE
+leo's coney island,leo,75,73,TRUE
+bashas',basha,75,70,TRUE
+dave's auto repair,dave,74,8,FALSE
+noah's bagels,noah,73,66,TRUE
+frank's pizza,frank,73,19,FALSE
+mel's diner,mel,72,11,FALSE
+catherine's,catherine,71,10,FALSE
+cirilla's,cirilla,71,18,FALSE
+ruby's diner,ruby,70,46,TRUE
+woody's,woody,70,8,FALSE
+tony's barber shop,tony,70,9,FALSE
+sam's club tire and battery,sam,69,9,FALSE
+sam's club pharmacy,sam,69,11,FALSE
+joe's garage,joe,69,6,FALSE
+ted's montana grill,ted,69,16,FALSE
+pepe's mexican restaurant,pepe,68,42,TRUE
+chester's,chester,67,11,FALSE
+valentino's,valentino,67,30,TRUE
+frank's barber shop,frank,67,8,FALSE
+jim's barber shop,jim,66,7,FALSE
+harold's chicken shack,harold,66,53,TRUE
+leslie's pool supplies,leslie,65,15,FALSE
+tiff's treats,tiff,65,51,TRUE
+clark's pump-n-shop,clark,65,35,TRUE
+lee's nails,lee,65,9,FALSE
+dave's barber shop,dave,64,7,FALSE
+ralph's famous italian ices,ralph,64,55,TRUE
+johnny's markets,johnny,64,62,TRUE
+abelardo's mexican fresh,abelardo,64,23,TRUE
+john's auto repair,john,63,8,FALSE
+harvey's supermarket,harvey,63,35,TRUE
+johnny's new york style pizza,johnny,63,63,TRUE
+cici's pizza buffet,cici,62,6,FALSE
+larry's barber shop,larry,61,5,FALSE
+maria's mexican restaurant,maria,61,11,FALSE
+don's barber shop,don,60,6,FALSE
+angelo's,angelo,60,5,FALSE
+luigi's,luigi,60,5,FALSE
+tina's nails,tina,60,11,FALSE
+mike's garage,mike,59,7,FALSE
+benny's,benny,59,13,FALSE
+charlie's,charlie,59,4,FALSE
+sam's place,sam,59,8,FALSE
+daphne's california greek,daphne,58,55,TRUE
+antonio's pizza,antonio,58,9,FALSE
+robin's nest,robin,58,5,FALSE
+cato's,cato,58,11,FALSE
+mark's pizzeria,mark,57,56,TRUE
+lenscrafters at macy's,macy,57,13,FALSE
+farrell's extreme bodyshaping,farrell,57,16,FALSE
+joe's auto repair,joe,57,10,FALSE
+tommy's express® car wash,tommy,57,10,FALSE
+jack's family restaurant,jack,56,26,TRUE
+fantastic sam's,sam,56,6,FALSE
+cooper's hawk winery and restaurant,cooper,55,16,FALSE
+mary's beauty salon,mary,55,12,FALSE
+vito's pizza,vito,55,13,FALSE
+andy's,andy,55,15,FALSE
+ron's barber shop,ron,55,7,FALSE
+frank's place,frank,55,5,FALSE
+jimmy's,jimmy,55,6,FALSE
+johnny's pizza,johnny,55,19,TRUE
+chuck and don's pet food and supplies,don,54,33,TRUE
+mike's automotive,mike,54,5,FALSE
+sam's club connection center,sam,54,5,FALSE
+chuck and don's pet food and supplies,chuck,54,33,TRUE
+pete's place,pete,54,5,FALSE
+pizza joe's,joe,54,25,TRUE
+ray's barber shop,ray,53,11,FALSE
+tom's barber shop,tom,53,6,FALSE
+al's barber shop,al,53,7,FALSE
+sally's beauty supply,sally,53,10,FALSE
+oil can henry's,henry,53,23,TRUE
+bruno's pizza,bruno,53,14,FALSE
+paul's barber shop,paul,52,4,FALSE
+johnny's pizza house,johnny,52,45,TRUE
+fred's store,fred,52,9,FALSE
+bill's barber shop,bill,52,5,FALSE
+tony's,tony,52,6,FALSE
+bj's gas,bj,52,12,FALSE
+michael's,michael,51,8,FALSE
+jerry's barber shop,jerry,51,7,FALSE
+aurelio's pizza,aurelio,50,31,TRUE
+jim 'n nick's bar-b-q,nick,50,16,FALSE
+carl's jr / green burrito,carl,50,33,TRUE
+kelley's market,kelley,50,37,TRUE
+mike's auto body,mike,50,15,FALSE
+sam's mart,sam,50,33,TRUE
+hungry howie's,howie,49,31,TRUE
+pf chang's,chang,49,15,FALSE
+lucky lil's,lil,49,48,TRUE
+le's nails,le,49,8,FALSE
+kelly's cajun grill,kelly,49,6,FALSE
+jim's auto repair,jim,49,5,FALSE
+tony's auto repair,tony,49,8,FALSE
+bob's auto repair,bob,48,7,FALSE
+lulu's,lulu,48,5,FALSE
+anthony's coal fired pizza and wings,anthony,48,26,TRUE
+steve's auto repair,steve,48,4,FALSE
+olga's kitchen,olga,48,43,TRUE
+nancy's nails,nancy,48,16,TRUE
+macy's furniture gallery,macy,48,9,FALSE
+papa john's,john,47,5,FALSE
+pat's place,pat,47,5,FALSE
+sam's club optical center,sam,46,14,FALSE
+bob's garage,bob,46,7,FALSE
+samurai sam's,sam,46,15,FALSE
+lucky's market,lucky,46,16,TRUE
+mario's,mario,46,5,FALSE
+joe's pizza and pasta,joe,46,21,TRUE
+sam's club hearing aid center,sam,46,8,FALSE
+gus's world famous fried chicken,gus,46,10,FALSE
+sam's club gas,sam,46,6,FALSE
+paul's tv: king of big screen,paul,45,26,TRUE
+charley's philly steaks,charley,45,7,FALSE
+moe's original bbq,moe,45,14,FALSE
+jack's barber shop,jack,45,8,FALSE
+jack's place,jack,45,6,FALSE
+tokyo joe's,joe,45,33,TRUE
+lin's garden,lin,45,5,FALSE
+amato's,amato,45,22,TRUE
+dino's pizza,dino,45,7,FALSE
+marc's stores,marc,44,44,TRUE
+lisa's nails,lisa,44,10,FALSE
+parker's kitchen,parker,44,23,TRUE
+bill's auto repair,bill,44,6,FALSE
+nando's peri-peri,nando,44,13,FALSE
+george's barber shop,george,43,9,FALSE
+jake's wayback burgers,jake,43,10,FALSE
+heidi's brooklyn deli,heidi,43,30,TRUE
+martin's,martin,43,9,FALSE
+luigi's italian restaurant,luigi,43,12,FALSE
+rocky's ace hardware,rocky,43,26,TRUE
+fred's,fred,43,7,FALSE
+lola's,lola,43,4,FALSE
+amy's hallmark shop-curbside pick up available,amy,43,8,FALSE
+sam's barber shop,sam,43,9,FALSE
+bob's stores,bob,43,13,FALSE
+anthony's,anthony,42,6,FALSE
+trudy's hallmark shop,trudy,42,29,TRUE
+pancho's mexican buffet,pancho,42,32,TRUE
+dolly's pizza,dolly,42,42,TRUE
+tony's pizzeria,tony,42,17,TRUE
+auntie anne's pretzels,anne,42,5,FALSE
+kim's cleaners,kim,42,9,FALSE
+ray's food place,ray,41,28,TRUE
+cindy's nails,cindy,41,13,FALSE
+michael's restaurant,michael,41,7,FALSE
+joe's cafe,joe,41,7,FALSE
+dan's auto repair,dan,41,6,FALSE
+zoe's kitchen,zoe,41,11,FALSE
+bella's,bella,41,8,FALSE
+barnie's coffee and tea co,barnie,41,30,TRUE
+goodstop by casey's,casey,40,11,FALSE
+mama mia's,mia,40,8,FALSE
+papa joe's pizza,joe,40,11,FALSE
+edy's grand ice cream,edy,40,7,FALSE
+mike's pizza,mike,40,6,FALSE
+duffy's sports grill,duffy,40,40,TRUE
+mark's auto repair,mark,40,4,FALSE
+murdoch's ranch and home supply,murdoch,40,14,TRUE
+rocco's pizza,rocco,40,7,FALSE
+steve's barber shop,steve,40,7,FALSE
+sam's club floral,sam,40,7,FALSE
+sammy's,sammy,40,9,FALSE
+paco's tacos,paco,40,8,FALSE
+rosie's,rosie,40,6,FALSE
+conroy's flowers,conroy,39,39,TRUE
+carino's italian grill,carino,39,8,FALSE
+mama fu's asian house,fu,39,30,TRUE
+mimi's,mimi,39,3,FALSE
+charlie's barber shop,charlie,39,5,FALSE
+jake's pizza,jake,39,17,TRUE
+vinny's pizza,vinny,39,7,FALSE
+garrett's fireworks,garrett,39,33,TRUE
+luke's lobster,luke,38,16,TRUE
+pete's barber shop,pete,38,5,FALSE
+nick's pizza,nick,38,7,FALSE
+lucy's,lucy,38,5,FALSE
+barry's bootcamp,barry,38,13,TRUE
+blain's farm and fleet,blain,38,16,TRUE
+anthony's pizza and pasta,anthony,38,30,TRUE
+pandora's box,pandora,38,5,FALSE
+bj's optical,bj,38,9,FALSE
+jerry's,jerry,38,4,FALSE
+uncle bob's self storage,bob,38,8,FALSE
+mike's auto sales,mike,38,5,FALSE
+nick's barber shop,nick,37,9,FALSE
+abby's legendary pizza,abby,37,34,TRUE
+michael's pizza,michael,37,6,FALSE
+charlie's place,charlie,37,4,FALSE
+george's,george,37,6,FALSE
+kelly's,kelly,37,5,FALSE
+gloria jean's coffee,gloria jean,37,4,FALSE
+filiberto's,filiberto,37,34,TRUE
+carson's,carson,37,16,TRUE
+nancy's pizza,nancy,37,31,TRUE
+frankie's pizza,frankie,37,7,FALSE
+kim's alterations,kim,37,4,FALSE
+daphne's greek cafe,daphne,37,29,TRUE
+original tommy's,tommy,37,9,FALSE
+johnny's,johnny,37,4,FALSE
+sam's market,sam,36,20,TRUE
+rosa's pizza,rosa,36,14,TRUE
+mike's auto service,mike,36,3,FALSE
+sal's pizzeria,sal,36,16,TRUE
+roy's,roy,36,7,FALSE
+mike's body shop,mike,36,5,FALSE
+gary's barber shop,gary,36,4,FALSE
+jim's garage,jim,36,5,FALSE
+king's wok,king,36,7,FALSE
+ann's nails,ann,36,8,FALSE
+nathan's,nathan,36,10,FALSE
+stella's,stella,36,4,FALSE
+harry's,harry,36,7,FALSE
+bill's place,bill,36,5,FALSE
+rudy's barbershop,rudy,36,15,TRUE
+linda's beauty salon,linda,36,5,FALSE
+sam's pizza,sam,36,9,FALSE
+benito's pizza,benito,36,32,TRUE
+henry's,henry,35,7,FALSE
+marylou's coffee,marylou,35,28,TRUE
+jefferson's,jefferson,35,10,FALSE
+dominic's of new york,dominic,35,17,TRUE
+chen's garden,chen,35,11,FALSE
+lee's barber shop,lee,35,4,FALSE
+conrad's tire express and total car care,conrad,35,35,TRUE
+steve's place,steve,35,6,FALSE
+sammy's pizza,sammy,35,6,FALSE
+angelo's pizzeria,angelo,35,9,FALSE
+parker's,parker,35,16,TRUE
+jack's donuts,jack,35,24,TRUE
+pete's,pete,35,8,FALSE
+sneaky pete's,pete,35,16,TRUE
+lily's nails,lily,35,7,FALSE
+garfield's restaurant and pub,garfield,35,4,FALSE
+jenny's nails,jenny,35,8,FALSE
+steve's automotive,steve,35,4,FALSE
+don's body shop,don,35,4,FALSE
+rudy's,rudy,35,10,FALSE
+tom's auto repair,tom,34,5,FALSE
+jim's auto sales,jim,34,6,FALSE
+not your average joe's,joe,34,22,TRUE
+marty's,marty,34,5,FALSE
+lee's market,lee,34,14,TRUE
+don's auto repair,don,34,3,FALSE
+jake's place,jake,34,6,FALSE
+ron's auto repair,ron,34,5,FALSE
+franco's pizza,franco,34,12,TRUE
+alberto's,alberto,34,22,TRUE
+aladdin's eatery,aladdin,34,22,TRUE
+maria's,maria,34,4,FALSE
+pat's pizzeria,pat,34,14,TRUE
+papa romano's,romano,34,34,TRUE
+double dave's pizzaworks,dave,34,34,TRUE
+anthony's barber shop,anthony,34,6,FALSE
+mario's pizzeria,mario,34,18,TRUE
+papa joe's,joe,34,5,FALSE
+maria's restaurant,maria,34,7,FALSE
+bailey's,bailey,34,4,FALSE
+p terry's burger stand,terry,33,33,TRUE
+landry's seafood house,landry,33,10,FALSE
+salvatore's old fashioned pizzeria,salvatore,33,33,TRUE
+paul's auto repair,paul,33,4,FALSE
+dave's cosmic subs,dave,33,29,TRUE
+penny's place,penny,33,14,TRUE
+stella's place,stella,33,30,TRUE
+freddy's,freddy,33,6,FALSE
+pete's pizza,pete,33,9,FALSE
+tommy's pizza,tommy,33,8,FALSE
+jim's automotive,jim,33,5,FALSE
+maria's pizza,maria,33,6,FALSE
+sam's club bakery,sam,33,3,FALSE
+original tommy's hamburgers,tommy,33,31,TRUE
+rogan's shoes,rogan,33,27,TRUE
+johnny's barber shop,johnny,33,4,FALSE
+woody's bar-b-q,woody,33,17,TRUE
+famous dave's bar-b-que,dave,33,4,FALSE
+noah's ark,noah,33,4,FALSE
+levi's,levi,33,4,FALSE
+sam's hot dog stand,sam,33,10,FALSE
+fast eddie's,eddie,33,8,FALSE
+rico's pizza,rico,32,14,TRUE
+rico's tacos,rico,32,12,TRUE
+bcbgmaxazria at macy's,macy,32,7,FALSE
+story at macy's,macy,32,5,FALSE
+joe's,joe,32,6,FALSE
+john's place,john,32,8,FALSE
+george's restaurant,george,32,5,FALSE
+gigi's,gigi,32,4,FALSE
+mike's deli,mike,32,9,FALSE
+dave's auto service,dave,32,4,FALSE
+dan's fan city,dan,32,26,TRUE
+sam's crispy chicken,sam,32,13,TRUE
+rocky's pizza,rocky,32,6,FALSE
+bucky's convenience stores,bucky,32,27,TRUE
+sam's club fuel center,sam,32,9,FALSE
+frankie's,frankie,32,4,FALSE
+nino's pizza,nino,32,6,FALSE
+sonny's,sonny,32,6,FALSE
+mike's tree service,mike,32,5,FALSE
+anna's nails,anna,32,8,FALSE
+uncle julio's,julio,32,10,FALSE
+naz's halal food,naz,32,15,TRUE
+ray's pizza,ray,32,9,FALSE
+jeff's auto repair,jeff,32,4,FALSE
+dick's barber shop,dick,31,5,FALSE
+maggie's,maggie,31,3,FALSE
+louie's,louie,31,5,FALSE
+ron's auto sales,ron,31,4,FALSE
+larry's pizza,larry,31,20,TRUE
+j christopher's,christopher,31,29,TRUE
+olivia's,olivia,31,4,FALSE
+larry's automotive,larry,31,7,FALSE
+gino's pizza and spaghetti house,gino,31,29,TRUE
+fajita pete's,pete,31,26,TRUE
+mary's hair salon,mary,31,8,FALSE
+annie's,annie,31,3,FALSE
+bj's,bj,31,4,FALSE
+george's pizza,george,31,7,FALSE
+jim's tree service,jim,31,3,FALSE
+rick's auto repair,rick,31,5,FALSE
+sam's food stores,sam,31,21,TRUE
+antonio's,antonio,31,3,FALSE
+big al's,al,31,3,FALSE
+jack's pizza,jack,31,15,TRUE
+penny's diner,penny,31,4,FALSE
+bruno's,bruno,31,4,FALSE
+sam's,sam,30,3,FALSE
+lucy's place,lucy,30,20,TRUE
+duke's,duke,30,5,FALSE
+dave's place,dave,30,3,FALSE
+mac's,mac,30,7,FALSE
+dave's automotive,dave,30,3,FALSE
+elmer's restaurant,elmer,30,20,TRUE
+eddie's barber shop,eddie,30,5,FALSE
+tony's place,tony,30,4,FALSE
+louie's pizza,louie,30,7,FALSE
+gino's,gino,30,5,FALSE
+sweet cece's,cece,30,21,TRUE
+paul's place,paul,30,7,FALSE
+cj's,cj,30,4,FALSE
+gandolfo's new york deli,gandolfo,30,8,FALSE
+barney's,barney,30,7,FALSE
+rose's nails,rose,30,5,FALSE
+al's pizza,al,30,7,FALSE
+samurai sam's teriyaki grill,sam,30,9,FALSE
+mary's place,mary,30,3,FALSE
+georgia's own credit union,georgia,30,30,TRUE
+margarita's,margarita,30,5,FALSE
+mike's auto,mike,30,3,FALSE
+andy's pizza,andy,30,8,FALSE
+scott's auto repair,scott,30,4,FALSE
+maria's beauty salon,maria,30,9,FALSE
+stewart's,stewart,30,9,FALSE
+buddy's pizza,buddy,30,24,TRUE
+tony luke's,tony luke,30,14,TRUE
+sal's barber shop,sal,29,7,FALSE
+don's and ben's liquor,don,29,29,TRUE
+uncle ed's oil shoppe,ed,29,29,TRUE
+rosie's cafe,rosie,29,5,FALSE
+hamburger mary's,mary,29,9,FALSE
+luigi's pizzeria,luigi,29,7,FALSE
+dave's auto sales,dave,29,6,FALSE
+danny's,danny,29,8,FALSE
+christopher's,christopher,29,2,FALSE
+steve's auto body,steve,29,7,FALSE
+clark's,clark,29,6,FALSE
+joe's deli,joe,29,9,FALSE
+bob's auto body,bob,29,5,FALSE
+red's savoy pizza,red,29,24,TRUE
+lynn's nails,lynn,29,8,FALSE
+jerry's body shop,jerry,29,4,FALSE
+randy's donuts,randy,29,21,TRUE
+erik's delicafe,erik,29,29,TRUE
+dylan's candy bar,dylan,29,10,TRUE
+georgio's oven fresh pizza co,georgio,29,28,TRUE
+steve's pizza,steve,29,10,TRUE
+bob's auto sales,bob,29,4,FALSE
+dave's garage,dave,29,4,FALSE
+ray's garage,ray,29,3,FALSE
+bill's automotive,bill,29,3,FALSE
+jerry's automotive,jerry,29,4,FALSE
+joe's bar,joe,29,4,FALSE
+danny's barber shop,danny,28,6,FALSE
+cindie's,cindie,28,20,TRUE
+federico's mexican food,federico,28,23,TRUE
+bella's boutique,bella,28,2,FALSE
+java joe's,joe,28,3,FALSE
+manny's,manny,28,6,FALSE
+milo's hamburgers,milo,28,28,TRUE
+nick's place,nick,28,6,FALSE
+christy's donuts,christy,28,27,TRUE
+mason's famous lobster rolls,mason,28,9,FALSE
+chen's kitchen,chen,28,5,FALSE
+tommy's,tommy,28,10,TRUE
+bill's garage,bill,28,5,FALSE
+mary's cafe,mary,28,5,FALSE
+ricky's,ricky,28,16,TRUE
+gino's pizzeria,gino,28,13,TRUE
+buddy's,buddy,28,4,FALSE
+lucille's smokehouse bar-b-que,lucille,28,25,TRUE
+tim's barber shop,tim,28,3,FALSE
+sophia's,sophia,28,4,FALSE
+harold's chicken,harold,28,15,TRUE
+gary's automotive,gary,28,5,FALSE
+valentino's pizza,valentino,28,10,TRUE
+claire's boutique,claire,28,4,FALSE
+primo's pizza,primo,28,8,FALSE
+alexander's,alexander,28,3,FALSE
+jim's auto service,jim,28,4,FALSE
+kim's kitchen,kim,28,4,FALSE
+dave's auto body,dave,28,4,FALSE
+eileen's colossal cookies,eileen,28,9,FALSE
+pino's pizza,pino,28,8,FALSE
+mike's plumbing,mike,28,6,FALSE
+betty's,betty,28,9,FALSE
+norman's hallmark shop,norman,28,18,TRUE
+lee's hoagie house,lee,28,20,TRUE
+mike's,mike,28,2,FALSE
+pal's sudden service,pal,28,25,TRUE
+maria's hair salon,maria,27,5,FALSE
+moe's,moe,27,5,FALSE
+colton's steak house and grill,colton,27,8,FALSE
+julie's nails,julie,27,4,FALSE
+john's automotive,john,27,4,FALSE
+rose's,rose,27,9,TRUE
+jim's body shop,jim,27,6,FALSE
+ron's automotive,ron,27,3,FALSE
+rick's place,rick,27,3,FALSE
+mary's restaurant,mary,27,4,FALSE
+moe's original bar b que,moe,27,11,TRUE
+kim's,kim,27,16,TRUE
+lee's cleaners,lee,27,5,FALSE
+amy's nails,amy,27,4,FALSE
+rocco's,rocco,27,5,FALSE
+randy's auto repair,randy,27,3,FALSE
+lee's discount liquor,lee,27,26,TRUE
+joe's body shop,joe,27,4,FALSE
+sandy's place,sandy,27,4,FALSE
+dave's body shop,dave,26,4,FALSE
+sam's food store,sam,26,12,TRUE
+annie's nails,annie,26,8,FALSE
+young's market,young,26,9,TRUE
+danny's auto repair,danny,26,3,FALSE
+jim's burgers,jim,26,20,TRUE
+alice's restaurant,alice,26,4,FALSE
+john's auto service,john,26,4,FALSE
+rudy's country store and bar-b-q,rudy,26,21,TRUE
+izzy's,izzy,26,6,FALSE
+teresa's pizza,teresa,26,23,TRUE
+hugo's,hugo,26,5,FALSE
+bill's cafe,bill,26,10,TRUE
+john's body shop,john,26,5,FALSE
+jerry's pizza,jerry,26,6,FALSE
+bill's body shop,bill,26,4,FALSE
+rocky's,rocky,26,4,FALSE
+lee's kitchen,lee,26,6,FALSE
+jake's,jake,26,4,FALSE
+tony's restaurant,tony,26,5,FALSE
+tiffany's nails,tiffany,26,3,FALSE
+queen's nails,queen,26,5,FALSE
+tim's auto repair,tim,26,3,FALSE
+alex's barber shop,alex,26,11,TRUE
+joey's pizza,joey,26,9,TRUE
+gary's auto sales,gary,26,3,FALSE
+willy's mexicana grill,willy,26,25,TRUE
+tony's deli,tony,26,8,FALSE
+soapy joe's car wash,joe,26,19,TRUE
+bob's tree service,bob,26,3,FALSE
+dewey's pizza,dewey,26,14,TRUE
+vinny's,vinny,26,6,FALSE
+karen's kitchen,karen,26,3,FALSE
+rick's automotive,rick,26,3,FALSE
+rick's barber shop,rick,26,3,FALSE
+nino's,nino,26,4,FALSE
+maria's kitchen,maria,25,6,FALSE
+foster's grille,foster,25,15,TRUE
+tony's body shop,tony,25,6,FALSE
+geno's pizza,geno,25,6,FALSE
+gordon's,gordon,25,9,TRUE
+scotty's,scotty,25,4,FALSE
+mimi's nails,mimi,25,7,FALSE
+tj's,tj,25,5,FALSE
+george's auto repair,george,25,4,FALSE
+margarita's mexican restaurant,margarita,25,6,FALSE
+mickey's,mickey,25,6,FALSE
+gloria's latin cuisine,gloria,25,25,TRUE
+mary's nails,mary,25,6,FALSE
+monkey joe's,joe,25,5,FALSE
+johnny's tavern,johnny,25,11,TRUE
+red's barber shop,red,25,4,FALSE
+nancy's beauty salon,nancy,25,8,FALSE
+lee's deli,lee,25,17,TRUE
+dave's service center,dave,25,4,FALSE
+pancho's,pancho,25,6,FALSE
+rick's auto body,rick,25,5,FALSE
+papa romano's pizza and mr pita,romano,25,25,TRUE
+parker's building supply,parker,25,19,TRUE
+bob's burgers,bob,25,10,TRUE
+sonny's real pit bar-b-q,sonny,25,13,TRUE
+pat's pizza,pat,25,14,TRUE
+charlie's restaurant,charlie,25,6,FALSE
+king's pizza,king,25,4,FALSE
+petro's chili and chips,petro,25,21,TRUE
+phil's barber shop,phil,25,4,FALSE
+rosa's cafe,rosa,25,19,TRUE
+buddy's bar-b-q,buddy,25,23,TRUE
+sam's deli,sam,25,6,FALSE
+lorenzo's pizza,lorenzo,25,5,FALSE
+lou's custom exhaust,lou,25,15,TRUE
+angelina's,angelina,25,5,FALSE
+ray's auto sales,ray,25,4,FALSE
+frank's auto repair,frank,24,4,FALSE
+gary's auto repair,gary,24,3,FALSE
+bob's body shop,bob,24,3,FALSE
+joe's market,joe,24,8,TRUE
+mike's market,mike,24,6,FALSE
+wally's party factory,wally,24,24,TRUE
+michael's barber shop,michael,24,6,FALSE
+mike's electric,mike,24,4,FALSE
+annie's book stop,annie,24,11,TRUE
+jerry's auto sales,jerry,24,2,FALSE
+layne's chicken fingers,layne,24,16,TRUE
+joe's diner,joe,24,4,FALSE
+wild willy's fireworks tent,willy,24,20,TRUE
+anthony's coal fired pizza,anthony,24,5,FALSE
+mike's barbershop,mike,24,4,FALSE
+victoria's,victoria,24,6,FALSE
+jerry's restaurant,jerry,24,8,TRUE
+joe's auto service,joe,24,4,FALSE
+larry's auto sales,larry,24,4,FALSE
+danny's pizza,danny,24,3,FALSE
+coco's,coco,24,12,TRUE
+bernie's,bernie,24,2,FALSE
+gene's barber shop,gene,24,4,FALSE
+rebecca's cafe,rebecca,24,19,TRUE
+lamar's donuts and coffee,lamar,24,8,TRUE
+joe's italian grill,joe,24,18,TRUE
+andy's auto repair,andy,24,3,FALSE
+charlie's pizza,charlie,24,5,FALSE
+ken's auto repair,ken,24,4,FALSE
+randy's auto sales,randy,24,2,FALSE
+young's cleaners,young,24,4,FALSE
+don's auto body,don,24,4,FALSE
+anton's cleaners,anton,24,22,TRUE
+giuseppe's pizza,giuseppe,24,8,TRUE
+ron's hamburgers and chili,ron,24,20,TRUE
+don's garage,don,24,4,FALSE
+tony's tacos,tony,24,5,FALSE
+roma's pizza,roma,24,5,FALSE
+sam's cafe,sam,24,4,FALSE
+jack's cafe,jack,24,4,FALSE
+ed's auto repair,ed,24,3,FALSE
+emily's,emily,24,2,FALSE
+tony's market,tony,24,7,FALSE
+j alexander's,alexander,24,3,FALSE
+andy's barber shop,andy,24,5,FALSE
+sonny's bar-b-q,sonny,24,12,TRUE
+riley's,riley,24,3,FALSE
+flynn's tire and auto service,flynn,24,14,TRUE
+amy's place,amy,24,3,FALSE
+shelby's,shelby,24,13,TRUE
+harvey's,harvey,24,3,FALSE
+mike's service center,mike,24,4,FALSE
+brenda's beauty salon,brenda,24,4,FALSE
+oliver's,oliver,24,3,FALSE
+rick's cafe,rick,24,3,FALSE
+francesca's collection,francesca,24,4,FALSE
+mark's barber shop,mark,24,5,FALSE
+kathy's nails,kathy,24,5,FALSE
+rosa's cafe and tortilla factory,rosa,23,21,TRUE
+sweet charlie's,charlie,23,5,FALSE
+ray's auto repair,ray,23,3,FALSE
+jolene's wings + beer,jolene,23,17,TRUE
+kelly's pub,kelly,23,4,FALSE
+gino's east,gino,23,13,TRUE
+bill's auto service,bill,23,3,FALSE
+carmine's,carmine,23,4,FALSE
+john's tree service,john,23,3,FALSE
+bobby's burger palace,bobby,23,6,FALSE
+steve's auto service,steve,23,3,FALSE
+wet willie's,willie,23,5,FALSE
+steve's plumbing,steve,23,3,FALSE
+joe's pizzeria,joe,23,7,FALSE
+kathy's kitchen,kathy,23,2,FALSE
+red's,red,23,3,FALSE
+rick's,rick,23,4,FALSE
+steve's body shop,steve,23,2,FALSE
+joe's jeans,joe,23,8,TRUE
+isabella's,isabella,23,3,FALSE
+jim's auto body,jim,23,3,FALSE
+paddy's pub,paddy,23,2,FALSE
+pasquale's,pasquale,23,6,FALSE
+al's auto repair,al,23,3,FALSE
+sandra's beauty salon,sandra,23,5,FALSE
+norman's hallmark shop-curbside pick up available,norman,23,15,TRUE
+turner's outdoorsman,turner,23,23,TRUE
+mike's repair,mike,23,4,FALSE
+tiffany's,tiffany,23,3,FALSE
+tully's,tully,23,10,TRUE
+dino's,dino,23,3,FALSE
+don's auto sales,don,23,4,FALSE
+nick's auto repair,nick,23,5,FALSE
+ming's garden,ming,23,3,FALSE
+jackie's,jackie,23,4,FALSE
+ezell's famous chicken,ezell,23,22,TRUE
+linda's place,linda,23,4,FALSE
+duffy's,duffy,23,3,FALSE
+enzo's pizza,enzo,23,7,FALSE
+big dan's car wash,dan,23,12,TRUE
+mac's convenience stores,mac,23,7,FALSE
+delia's,delia,23,8,TRUE
+benny's pizza,benny,23,8,TRUE
+bob's market,bob,23,8,TRUE
+king's buffet,king,23,3,FALSE
+king's jewelry,king,23,12,TRUE
+tony's auto sales,tony,23,7,FALSE
+rusty's pizza parlor,rusty,23,23,TRUE
+ryan's family steak house,ryan,23,4,FALSE
+poppy's,poppy,23,4,FALSE
+gretchen's hallmark shop,gretchen,23,11,TRUE
+sam's xpress car wash,sam,23,16,TRUE
+tom's auto body,tom,23,3,FALSE
+larry's auto repair,larry,23,2,FALSE
+pasquale's pizza,pasquale,23,4,FALSE
+armando's,armando,22,4,FALSE
+joe's automotive,joe,22,6,FALSE
+tanner's bar and grill,tanner,22,7,FALSE
+big john's,john,22,4,FALSE
+ken's barber shop,ken,22,4,FALSE
+judy's,judy,22,2,FALSE
+betty's beauty salon,betty,22,3,FALSE
+jim's razorback pizza,jim,22,21,TRUE
+leslie's pool supply,leslie,22,5,FALSE
+jb's,jb,22,3,FALSE
+jb's restaurant,jb,22,9,TRUE
+ivar's seafood bar,ivar,22,21,TRUE
+bikram's yoga college of india,bikram,22,6,FALSE
+gloria jean's gourmet coffees,gloria jean,22,5,FALSE
+mariano's,mariano,22,18,TRUE
+jerry's auto repair,jerry,22,5,FALSE
+gracie's,gracie,22,2,FALSE
+mike's carwash,mike,22,12,TRUE
+mark's garage,mark,22,3,FALSE
+bob's big boy,bob,22,16,TRUE
+al's body shop,al,22,5,FALSE
+wayne's barber shop,wayne,22,3,FALSE
+ruby's,ruby,22,5,FALSE
+dan's barber shop,dan,22,2,FALSE
+michelle's,michelle,22,3,FALSE
+molly's,molly,22,3,FALSE
+sal's italian ristorante,sal,22,22,TRUE
+danny's restaurant,danny,22,12,TRUE
+ana's beauty salon,ana,22,7,FALSE
+angie's beauty salon,angie,22,10,TRUE
+dave's tree service,dave,22,3,FALSE
+oscar's,oscar,22,6,FALSE
+wayne's world,wayne,22,3,FALSE
+tony's barbershop,tony,22,5,FALSE
+billy's,billy,22,2,FALSE
+tony's cafe,tony,22,4,FALSE
+bob's auto service,bob,22,3,FALSE
+dion's pizza,dion,22,17,TRUE
+bj's tire center,bj,22,5,FALSE
+tony's garage,tony,22,5,FALSE
+elliott's off broadway deli,elliott,22,22,TRUE
+ed's barber shop,ed,22,3,FALSE
+montana mike's steakhouse,mike,22,7,FALSE
+montana lil's,lil,22,22,TRUE
+cindy's,cindy,22,3,FALSE
+patty's place,patty,22,2,FALSE
+chuck's barber shop,chuck,22,3,FALSE
+willie's grill and icehouse,willie,22,22,TRUE
+bono's pit bar-b-q,bono,22,21,TRUE
+charlie's chicken,charlie,22,16,TRUE
+wilson's leather,wilson,22,3,FALSE
+georgio's pizza,georgio,22,9,TRUE
+martha's beauty salon,martha,22,9,TRUE
+captain jay's fish and chicken,jay,22,19,TRUE
+chuck's auto repair,chuck,22,2,FALSE
+ron's body shop,ron,22,4,FALSE
+roma's italian restaurant,roma,22,7,FALSE
+rick's auto sales,rick,22,4,FALSE
+john's plumbing,john,21,5,FALSE
+bagger dave's,dave,21,15,TRUE
+don's automotive,don,21,3,FALSE
+jay's automotive,jay,21,3,FALSE
+sullivan's steakhouse,sullivan,21,3,FALSE
+john's garage,john,21,5,FALSE
+nina's,nina,21,4,FALSE
+sam's club cafe,sam,21,4,FALSE
+drake's,drake,21,9,TRUE
+tony's shoe repair,tony,21,5,FALSE
+linda's beauty shop,linda,21,4,FALSE
+brian's barber shop,brian,21,4,FALSE
+john's shoe repair,john,21,4,FALSE
+mustang sally's,sally,21,3,FALSE
+big al's pizza,al,21,5,FALSE
+sully's,sully,21,3,FALSE
+jack's auto repair,jack,21,4,FALSE
+ed's garage,ed,21,3,FALSE
+eddie's auto repair,eddie,21,3,FALSE
+cam's pizzeria,cam,21,21,TRUE
+ollie's,ollie,21,6,FALSE
+oscar's taco shop,oscar,21,14,TRUE
+aj's bar and grill,aj,21,2,FALSE
+joe's liquor,joe,21,11,TRUE
+kelly's coffee and fudge factory,kelly,21,20,TRUE
+joe's bar and grill,joe,21,3,FALSE
+bogey's,bogey,21,3,FALSE
+tam's burgers,tam,21,21,TRUE
+jimmy's place,jimmy,21,4,FALSE
+wally's,wally,21,3,FALSE
+perry's steakhouse and grille,perry,21,14,TRUE
+pepe's,pepe,21,6,FALSE
+bob's electric,bob,21,4,FALSE
+dan's automotive,dan,21,2,FALSE
+charlie's auto repair,charlie,21,3,FALSE
+jenny's market,jenny,21,19,TRUE
+larry's body shop,larry,21,4,FALSE
+pat's auto repair,pat,21,4,FALSE
+dave's,dave,21,5,FALSE
+kathy's beauty salon,kathy,21,3,FALSE
+dave's diner,dave,21,4,FALSE
+pancho's mexican restaurant,pancho,21,4,FALSE
+jerry's auto body,jerry,21,4,FALSE
+jerry's artarama,jerry,21,3,FALSE
+karen's hallmark shop,karen,21,8,TRUE
+rick's plumbing,rick,21,6,FALSE
+low bob's discount tobacco,bob,21,17,TRUE
+bucky's express,bucky,21,16,TRUE
+mary's mountain cookies,mary,21,11,TRUE
+mitchell's fish market,mitchell,21,5,FALSE
+mama mia's pizza,mia,21,4,FALSE
+mama mia's pizzeria,mia,21,5,FALSE
+anna's pizza,anna,21,8,TRUE
+lupita's,lupita,21,5,FALSE
+geno's,geno,21,4,FALSE
+scout and molly's,scout,21,4,FALSE
+giuseppe's,giuseppe,21,3,FALSE
+scout and molly's,molly,21,4,FALSE
+max's,max,21,4,FALSE
+houston's,houston,21,6,FALSE
+fred's barber shop,fred,21,3,FALSE
+francesco's,francesco,21,6,FALSE
+bill's auto sales,bill,21,3,FALSE
+mario's restaurant,mario,21,5,FALSE
+giovanni's italian restaurant,giovanni,21,8,TRUE
+mario's barber shop,mario,21,5,FALSE
+miguel's jr,miguel,21,21,TRUE
+big shot bob's house of wings,bob,21,18,TRUE
+sandy's,sandy,21,4,FALSE
+mary's kitchen,mary,21,5,FALSE
+lee's chinese restaurant,lee,20,3,FALSE
+diana's beauty salon,diana,20,6,FALSE
+gary's garage,gary,20,4,FALSE
+david's check cashing,david,20,18,TRUE
+jeff's automotive,jeff,20,3,FALSE
+jim's service center,jim,20,3,FALSE
+lee's donuts,lee,20,11,TRUE
+willie's,willie,20,2,FALSE
+frank's,frank,20,4,FALSE
+gloria's beauty salon,gloria,20,7,TRUE
+ray's place,ray,20,3,FALSE
+mary's pizza shack,mary,20,19,TRUE
+bcbgeneration at macy's,macy,20,5,FALSE
+dave's auto,dave,20,5,FALSE
+lee's auto repair,lee,20,4,FALSE
+joe's auto,joe,20,7,TRUE
+cody's original roadhouse,cody,20,19,TRUE
+king's liquor,king,20,5,FALSE
+jim's place,jim,20,3,FALSE
+maria's bakery,maria,20,5,FALSE
+rachel's kitchen,rachel,20,12,TRUE
+michael's cafe,michael,20,4,FALSE
+jimmy's barber shop,jimmy,20,4,FALSE
+gabby's,gabby,20,3,FALSE
+tammy's nails,tammy,20,3,FALSE
+patsy's pizzeria,patsy,20,18,TRUE
+patrick's,patrick,20,3,FALSE
+patricia's,patricia,20,3,FALSE
+jillian's,jillian,20,5,FALSE
+dante's pizza,dante,20,7,TRUE
+clancy's,clancy,20,3,FALSE
+frank's restaurant,frank,20,3,FALSE
+stan's donuts and coffee,stan,20,20,TRUE
+ralph's italian ices,ralph,20,13,TRUE
+ken's auto sales,ken,20,5,FALSE
+dick's last resort,dick,20,4,FALSE
+lee's garden,lee,20,6,FALSE
+donald's donuts,donald,20,13,TRUE
+john's auto body,john,20,3,FALSE
+river's edge,river,20,3,FALSE
+kaldi's coffee,kaldi,20,12,TRUE
+lillian's,lillian,20,6,FALSE
+amy's ice creams,amy,20,20,TRUE
+lily's cafe,lily,20,6,FALSE
+carol's beauty salon,carol,20,4,FALSE
+amy's hair salon,amy,20,3,FALSE
+doug's auto repair,doug,20,4,FALSE
+linda's nails,linda,20,5,FALSE
+carlo's pizza,carlo,20,6,FALSE
+duffy's tavern,duffy,20,4,FALSE
+al's auto body,al,20,4,FALSE
+giorgio's,giorgio,20,3,FALSE
+scott's automotive,scott,20,2,FALSE
+elizabeth's pizza,elizabeth,20,16,TRUE
+louie's tux shop,louie,20,20,TRUE
+sunny's,sunny,20,7,TRUE
+lev's pawn shop,lev,20,14,TRUE
+pete's tire barns,pete,20,8,TRUE
+giovanni's pizzeria,giovanni,20,3,FALSE
+rick's tree service,rick,20,3,FALSE
+sheridan's frozen custard,sheridan,20,6,FALSE
+charley's,charley,20,5,FALSE
+steve's garage,steve,20,3,FALSE
+charley's steakery,charley,20,5,FALSE
+al's garage,al,20,3,FALSE
+leo's,leo,20,4,FALSE
+tracy's nails,tracy,20,5,FALSE
+don pablo's mexican kitchen,pablo,20,4,FALSE
+tracy's,tracy,20,9,TRUE
+primo's,primo,19,3,FALSE
+robyn's nest,robyn,19,3,FALSE
+bruno's pizzeria,bruno,19,4,FALSE
+juanita's,juanita,19,10,TRUE
+martin's super markets,martin,19,6,FALSE
+bob's place,bob,19,4,FALSE
+gino's pizza and spaghetti,gino,19,19,TRUE
+cliff's local market,cliff,19,19,TRUE
+rocco's pizzeria,rocco,19,7,TRUE
+george's garage,george,19,3,FALSE
+sara's secret,sara,19,19,TRUE
+young's,young,19,9,TRUE
+martha's,martha,19,4,FALSE
+kim's beauty supply,kim,19,4,FALSE
+tom's automotive,tom,19,5,FALSE
+julie's,julie,19,3,FALSE
+giuseppe's pizzeria,giuseppe,19,5,FALSE
+santiago's mexican restaurant,santiago,19,14,TRUE
+joe's auto sales,joe,19,4,FALSE
+wayne's automotive,wayne,19,3,FALSE
+ram's horn,ram,19,19,TRUE
+rosie's diner,rosie,19,3,FALSE
+cindy's beauty salon,cindy,19,5,FALSE
+woody's bbq,woody,19,13,TRUE
+george's auto body,george,19,4,FALSE
+marty's shoes,marty,19,14,TRUE
+kathy's,kathy,19,2,FALSE
+robert's automotive,robert,19,3,FALSE
+steve's auto glass,steve,19,5,FALSE
+joe's gym,joe,19,3,FALSE
+gianni's pizza,gianni,19,6,FALSE
+kevin's automotive,kevin,19,4,FALSE
+ralph's barber shop,ralph,19,3,FALSE
+ray's auto service,ray,19,3,FALSE
+roscoe's,roscoe,19,3,FALSE
+antonio's restaurant,antonio,19,3,FALSE
+ed's auto sales,ed,19,4,FALSE
+frank's automotive,frank,19,4,FALSE
+tony's auto service,tony,19,3,FALSE
+sonny's pizza,sonny,19,10,TRUE
+david's,david,19,8,TRUE
+pam's place,pam,19,4,FALSE
+nino's pizzeria,nino,19,9,TRUE
+floyd's barber shop,floyd,19,5,FALSE
+dick's wings and grill,dick,19,17,TRUE
+amy's cafe,amy,19,7,TRUE
+don's electric,don,19,3,FALSE
+anthony's pizzeria,anthony,19,5,FALSE
+lorenzo's,lorenzo,19,4,FALSE
+dick's warehouse sale,dick,19,2,FALSE
+jenny's salon,jenny,19,3,FALSE
+ernie's,ernie,19,2,FALSE
+frank's auto service,frank,19,4,FALSE
+mac's fresh market,mac,19,13,TRUE
+donna's diner,donna,19,4,FALSE
+sam's hotdog stand,sam,19,13,TRUE
+don's plumbing,don,19,3,FALSE
+sam's auto sales,sam,19,4,FALSE
+mike's car wash,mike,19,6,FALSE
+garfield's,garfield,19,4,FALSE
+jeff's bagel run,jeff,19,12,TRUE
+jerry's garage,jerry,19,4,FALSE
+millie's,millie,19,5,FALSE
+peppino's pizza,peppino,19,6,FALSE
+damon's,damon,19,8,TRUE
+tina's,tina,19,2,FALSE
+ike's sandwiches,ike,19,13,TRUE
+sky's the limit,sky,19,3,FALSE
+ryan's ayce marketplace,ryan,19,3,FALSE
+aj's,aj,19,2,FALSE
+eddie's,eddie,19,3,FALSE
+tony's nails,tony,19,4,FALSE
+patxi's pizza,patxi,19,17,TRUE
+louie's grill and bar,louie,19,15,TRUE
+sam's cleaners,sam,19,6,FALSE
+larry's,larry,19,2,FALSE
+birdie's,birdie,19,3,FALSE
+dante's,dante,19,4,FALSE
+leo's pizza,leo,19,4,FALSE
+larry's garage,larry,19,2,FALSE
+nick's,nick,18,2,FALSE
+ashley's,ashley,18,3,FALSE
+pete's garage,pete,18,2,FALSE
+andy's cheesesteaks and cheeseburgers,andy,18,18,TRUE
+ron's garage,ron,18,4,FALSE
+sneaky pete's hot dogs,pete,18,18,TRUE
+robert's barber shop,robert,18,3,FALSE
+roberta's,roberta,18,11,TRUE
+smokey mo's bbq,mo,18,18,TRUE
+leonardo's,leonardo,18,3,FALSE
+nancy's,nancy,18,2,FALSE
+arden's garden,arden,18,18,TRUE
+lucy's beauty salon,lucy,18,10,TRUE
+romeo's,romeo,18,4,FALSE
+anna's alterations,anna,18,5,FALSE
+lucky's cafe,lucky,18,3,FALSE
+jojo's,jojo,18,2,FALSE
+mark's automotive,mark,18,2,FALSE
+sam's liquor,sam,18,7,TRUE
+noah's ark preschool,noah,18,2,FALSE
+rick's cleaners,rick,18,15,TRUE
+roxy's,roxy,18,3,FALSE
+angelina's pizzeria,angelina,18,4,FALSE
+angelina's pizza,angelina,18,6,TRUE
+mia's,mia,18,5,FALSE
+lady jane's,jane,18,6,TRUE
+paul's tree service,paul,18,2,FALSE
+michael's deli,michael,18,8,TRUE
+antonio's pizzeria,antonio,18,4,FALSE
+kiki's chicken place,kiki,18,18,TRUE
+kickback jack's,jack,18,11,TRUE
+scotty's brewhouse,scotty,18,11,TRUE
+bambino's,bambino,18,3,FALSE
+mike's auto glass,mike,18,3,FALSE
+bailey's health and fitness,bailey,18,18,TRUE
+lee's alterations,lee,18,5,FALSE
+lee's automotive,lee,18,2,FALSE
+rick's auto service,rick,18,3,FALSE
+kelly's nails,kelly,18,3,FALSE
+angela's,angela,18,4,FALSE
+annie's cafe,annie,18,5,FALSE
+kelly's deli,kelly,18,12,TRUE
+steve's auto sales,steve,18,3,FALSE
+santiago's,santiago,18,13,TRUE
+kelly's cafe,kelly,18,2,FALSE
+oliver's pizza,oliver,18,15,TRUE
+marshall's,marshall,18,4,FALSE
+ann's beauty salon,ann,18,3,FALSE
+sam's automotive,sam,18,3,FALSE
+sophia's cafe,sophia,18,7,TRUE
+scott's auto body,scott,18,2,FALSE
+leona's,leona,18,13,TRUE
+paul's body shop,paul,18,3,FALSE
+romano's pizza,romano,18,2,FALSE
+tex's chicken and burgers,tex,18,17,TRUE
+wayne's auto repair,wayne,18,3,FALSE
+christine's,christine,18,3,FALSE
+beto's,beto,18,13,TRUE
+tom's tree service,tom,18,3,FALSE
+dick's body shop,dick,18,3,FALSE
+cousin vinny's pizza,vinny,18,14,TRUE
+trader vic's,vic,18,7,TRUE
+al and ed's autosound,al,18,17,TRUE
+joey's,joey,18,3,FALSE
+don's auto service,don,18,4,FALSE
+gabriel's,gabriel,18,2,FALSE
+al and ed's autosound,ed,18,17,TRUE
+teddy's bigger burgers,teddy,18,13,TRUE
+eat at joe's,joe,18,4,FALSE
+corky's,corky,18,2,FALSE
+jay's barber shop,jay,18,5,FALSE
+happy joe's pizza and ice cream,joe,18,11,TRUE
+tim's body shop,tim,18,3,FALSE
+christy's,christy,18,3,FALSE
+jay's auto repair,jay,18,3,FALSE
+fred's discount store,fred,18,4,FALSE
+tim's automotive,tim,18,2,FALSE
+bella's pizza,bella,18,3,FALSE
+tony's auto body,tony,18,4,FALSE
+taylor's,taylor,18,2,FALSE
+frank's garage,frank,18,3,FALSE
+tony's fresh market,tony,18,16,TRUE
+susie's deals,susie,18,13,TRUE
+fletcher's tire and auto service,fletcher,18,18,TRUE
+buddy's place,buddy,18,4,FALSE
+good time charlie's,charlie,18,3,FALSE
+dave's electric,dave,18,3,FALSE
+johnny's italian steakhouse,johnny,18,3,FALSE
+david's barber shop,david,18,4,FALSE
+beverly's fabric and crafts,beverly,18,18,TRUE
+bob's carpet and flooring,bob,18,18,TRUE
+tom's garage,tom,18,4,FALSE
+dave's painting,dave,18,2,FALSE
+gregory's,gregory,18,4,FALSE
+david's auto repair,david,18,3,FALSE
+jeff's auto service,jeff,18,3,FALSE
+lee's body shop,lee,17,5,FALSE
+maria's mexican food,maria,17,4,FALSE
+terry's barber shop,terry,17,2,FALSE
+leo's auto repair,leo,17,7,TRUE
+charlie's cafe,charlie,17,3,FALSE
+sammy's woodfired pizza and grill,sammy,17,13,TRUE
+mary's beauty shop,mary,17,3,FALSE
+claire's accessories,claire,17,3,FALSE
+maria's tacos,maria,17,6,TRUE
+steve's auto,steve,17,2,FALSE
+ted's barber shop,ted,17,5,FALSE
+frank's pizzeria,frank,17,5,FALSE
+sam's restaurant,sam,17,3,FALSE
+maria's cafe,maria,17,4,FALSE
+jimmy's cafe,jimmy,17,4,FALSE
+mike's bikes,mike,17,2,FALSE
+rick's auto,rick,17,3,FALSE
+tony's automotive,tony,17,5,FALSE
+sam's pizza and subs,sam,17,11,TRUE
+mike's liquor,mike,17,8,TRUE
+anthony's restaurant,anthony,17,3,FALSE
+kim's hair salon,kim,17,3,FALSE
+aisha's salon and spa,aisha,17,16,TRUE
+marie's,marie,17,2,FALSE
+sal's place,sal,17,3,FALSE
+george's place,george,17,3,FALSE
+baba's famous steak and lemonade,baba,17,16,TRUE
+martin's barber shop,martin,17,3,FALSE
+scott's barber shop,scott,17,3,FALSE
+tom's watch bar,tom,17,4,FALSE
+rosa's beauty salon,rosa,17,6,TRUE
+jim's family restaurant,jim,17,10,TRUE
+jd's,jd,17,4,FALSE
+gary's body shop,gary,17,3,FALSE
+max's restaurant,max,17,6,TRUE
+maxine's,maxine,17,3,FALSE
+sunny and fine's breakfast burritos,sunny,17,11,TRUE
+bill's auto,bill,17,4,FALSE
+rusty's,rusty,17,2,FALSE
+jerry's market,jerry,17,4,FALSE
+jim's pizza,jim,17,3,FALSE
+gary's auto,gary,17,2,FALSE
+gandolfo's,gandolfo,17,11,TRUE
+angela's cafe,angela,17,7,TRUE
+michael's jewelers,michael,17,5,FALSE
+king's chef,king,17,8,TRUE
+jim's restaurant,jim,17,11,TRUE
+brother jimmy's bbq,jimmy,17,10,TRUE
+georgio's subs,georgio,17,15,TRUE
+sandy's beauty salon,sandy,17,3,FALSE
+bj's gas station,bj,17,4,FALSE
+mike's shoe repair,mike,17,6,TRUE
+don's tree service,don,17,5,FALSE
+christina's,christina,17,4,FALSE
+nick's restaurant,nick,17,4,FALSE
+diva's hair salon,diva,17,4,FALSE
+carmelita's,carmelita,17,5,FALSE
+lily's,lily,17,3,FALSE
+carl's barber shop,carl,17,3,FALSE
+lucy's cafe,lucy,17,3,FALSE
+stewart's root beer,stewart,17,14,TRUE
+john's pizza,john,17,4,FALSE
+angie's,angie,17,2,FALSE
+john's pizzeria,john,17,6,TRUE
+judy's beauty salon,judy,17,3,FALSE
+young's beauty supply,young,17,3,FALSE
+del's lemonade,del,17,10,TRUE
+sunny's food store,sunny,17,15,TRUE
+deb's diner,deb,17,3,FALSE
+pat's barber shop,pat,17,2,FALSE
+victor's taco shop,victor,17,11,TRUE
+bob's steak and chop house,bob,17,9,TRUE
+ray's automotive,ray,17,2,FALSE
+jose's mexican restaurant,jose,17,6,TRUE
+dave's pizza,dave,17,3,FALSE
+dave's appliance repair,dave,17,3,FALSE
+roma's,roma,17,3,FALSE
+sally's,sally,17,4,FALSE
+sunny and fine's breakfast burritos,fine,17,11,TRUE
+dave's appliance service,dave,17,2,FALSE
+bob's,bob,17,3,FALSE
+nina's nails,nina,17,2,FALSE
+yaya's flame broiled chicken,yaya,17,9,TRUE
+joe's kwik marts,joe,17,6,TRUE
+lupita's restaurant,lupita,17,6,TRUE
+sam's food mart,sam,17,4,FALSE
+kelly's hair salon,kelly,17,4,FALSE
+dot's,dot,17,3,FALSE
+dan's auto body,dan,17,4,FALSE
+rob's auto repair,rob,17,2,FALSE
+kelly's tavern,kelly,17,10,TRUE
+tj's pizza,tj,17,4,FALSE
+alfredo's mexican food,alfredo,17,13,TRUE
+elaine's,elaine,17,2,FALSE
+joe's kwik mart,joe,17,11,TRUE
+sam's donuts,sam,17,7,TRUE
+paul's automotive,paul,17,2,FALSE
+helen's nails,helen,17,5,FALSE
+charlie's bar and grill,charlie,17,6,TRUE
+mr mike's,mike,17,6,TRUE
+mike's windshields,mike,17,9,TRUE
+luigi's restaurant,luigi,17,4,FALSE
+al's diner,al,17,2,FALSE
+joann's,joann,17,3,FALSE
+jake's bar and grill,jake,17,2,FALSE
+tom and jerry's,tom,16,8,TRUE
+jack's auto body,jack,16,3,FALSE
+guido's pizza,guido,16,2,FALSE
+tim's tree service,tim,16,4,FALSE
+marco's,marco,16,3,FALSE
+j alexander's restaurant,alexander,16,3,FALSE
+alfredo's,alfredo,16,3,FALSE
+tom's,tom,16,6,TRUE
+marc's pharmacy,marc,16,16,TRUE
+al's electric,al,16,2,FALSE
+harding's friendly market,harding,16,16,TRUE
+cindy's place,cindy,16,3,FALSE
+lupita's mexican restaurant,lupita,16,3,FALSE
+helen's beauty salon,helen,16,3,FALSE
+lucky's pizza,lucky,16,4,FALSE
+manny's pizza,manny,16,6,TRUE
+lucy's hair salon,lucy,16,4,FALSE
+luke's locker,luke,16,15,TRUE
+tom and jerry's,jerry,16,8,TRUE
+ciro's pizza,ciro,16,8,TRUE
+manny and olga's pizza,manny,16,8,TRUE
+luigi's pizza and pasta,luigi,16,3,FALSE
+baxter's,baxter,16,2,FALSE
+freddy's frozen custard,freddy,16,2,FALSE
+cliff's check cashing,cliff,16,16,TRUE
+dion's,dion,16,8,TRUE
+sam's diner,sam,16,2,FALSE
+angelo's restaurant,angelo,16,5,FALSE
+paul's auto service,paul,16,3,FALSE
+tony's pizza and subs,tony,16,12,TRUE
+paul's auto body,paul,16,3,FALSE
+ann's hallmark shop,ann,16,6,TRUE
+tony's pizza service,tony,16,2,FALSE
+ann's hallmark,ann,16,2,FALSE
+nick's cafe,nick,16,4,FALSE
+nico's mexican food,nico,16,13,TRUE
+ninfa's mexican restaurant,ninfa,16,14,TRUE
+trudy's hallmark shop-curbside pick up available,trudy,16,16,TRUE
+paul's cleaners,paul,16,8,TRUE
+danny's automotive,danny,16,4,FALSE
+denny's barber shop,denny,16,3,FALSE
+bob's automotive,bob,16,3,FALSE
+uncle sam's,sam,16,4,FALSE
+pat's beauty shop,pat,16,2,FALSE
+otto's,otto,16,2,FALSE
+pasquale's pizzeria,pasquale,16,11,TRUE
+dave's repair,dave,16,5,FALSE
+angie's hair salon,angie,16,5,FALSE
+dave's heating and air conditioning,dave,16,3,FALSE
+papa saverio's pizzeria,saverio,16,15,TRUE
+mona's cafe,mona,16,7,TRUE
+molly's cupcakes,molly,16,8,TRUE
+clyde's,clyde,16,7,TRUE
+pete's auto repair,pete,16,2,FALSE
+mario's auto repair,mario,16,3,FALSE
+mark's auto sales,mark,16,3,FALSE
+connie's cafe,connie,16,2,FALSE
+mark's mattress outlet,mark,16,8,TRUE
+scott's landscaping,scott,16,3,FALSE
+martha's kitchen,martha,16,4,FALSE
+connie's pizza,connie,16,15,TRUE
+cosimo's pizza,cosimo,16,4,FALSE
+al's beef,al,16,14,TRUE
+maxwell's,maxwell,16,2,FALSE
+mel's place,mel,16,2,FALSE
+bill's grill,bill,16,4,FALSE
+moe's tavern,moe,16,4,FALSE
+michael's salon,michael,16,3,FALSE
+michelle's hair studio,michelle,16,4,FALSE
+cristina's fine mexican restaurant,cristina,16,16,TRUE
+tommy's restaurant,tommy,16,3,FALSE
+fred's auto repair,fred,16,3,FALSE
+peppino's,peppino,16,4,FALSE
+pepe's tacos,pepe,16,6,TRUE
+bill's tree service,bill,16,2,FALSE
+russell's,russell,16,3,FALSE
+mike's tavern,mike,16,3,FALSE
+ryan's auto glass,ryan,16,9,TRUE
+jack's grocery,jack,16,10,TRUE
+manny and olga's pizza,olga,16,8,TRUE
+chen's chinese restaurant,chen,16,4,FALSE
+catherine's plus sizes,catherine,16,2,FALSE
+carol's cafe,carol,16,3,FALSE
+bella's hair salon,bella,16,2,FALSE
+leonardo's pizza,leonardo,16,2,FALSE
+beto's mexican food,beto,16,13,TRUE
+kelly's kitchen,kelly,16,1,FALSE
+larry's auto service,larry,16,3,FALSE
+larry's auto body,larry,16,2,FALSE
+joe's italian restaurant,joe,16,10,TRUE
+sue's beauty shop,sue,16,3,FALSE
+art's barber shop,art,16,5,FALSE
+steve's auto parts,steve,16,2,FALSE
+jim's gym,jim,16,3,FALSE
+lacey's,lacey,16,13,TRUE
+al's plumbing,al,16,4,FALSE
+cheeseburger bobby's,bobby,16,14,TRUE
+barnie's coffee and tea company,barnie,16,15,TRUE
+jackson's,jackson,16,5,FALSE
+kathy's korner,kathy,16,5,FALSE
+andy's deli,andy,16,12,TRUE
+sophie's,sophie,16,2,FALSE
+roberto's pizza,roberto,16,5,FALSE
+karen's korner,karen,16,5,FALSE
+terry's automotive,terry,16,4,FALSE
+joe's plumbing,joe,16,4,FALSE
+charlotte's,charlotte,16,3,FALSE
+jay's,jay,16,4,FALSE
+charlotte's web,charlotte,16,3,FALSE
+average joe's,joe,16,5,FALSE
+austin's,austin,16,3,FALSE
+joe's pizza pasta and subs,joe,16,15,TRUE
+carino's italian,carino,16,5,FALSE
+chan's chinese restaurant,chan,16,3,FALSE
+king's kitchen,king,16,7,TRUE
+steve's electric,steve,16,3,FALSE
+bruce's auto repair,bruce,16,3,FALSE
+king's cleaners,king,16,5,FALSE
+jittery joe's,joe,16,14,TRUE
+lin's grand buffet,lin,16,7,TRUE
+jimmy john's gourmet sandwiches,jimmy john,16,5,FALSE
+buster's,buster,16,2,FALSE
+taco bob's,bob,16,13,TRUE
+johnny's auto repair,johnny,16,3,FALSE
+bucky's,bucky,16,5,FALSE
+jose's barber shop,jose,16,5,FALSE
+jack's pets,jack,16,16,TRUE
+mark's hallmark,mark,15,5,TRUE
+katie's kitchen,katie,15,3,FALSE
+fred's fish fry,fred,15,15,TRUE
+scott's lawn care,scott,15,3,FALSE
+vinny's pizzeria,vinny,15,5,TRUE
+alvin's island,alvin,15,14,TRUE
+andy's restaurant,andy,15,4,FALSE
+foster's donuts,foster,15,15,TRUE
+scott's lawn service,scott,15,4,FALSE
+kevin's auto repair,kevin,15,3,FALSE
+jimmy's auto sales,jimmy,15,2,FALSE
+dan's,dan,15,2,FALSE
+kim's beauty salon,kim,15,3,FALSE
+frank's body shop,frank,15,3,FALSE
+al's place,al,15,2,FALSE
+lee's beauty supply,lee,15,5,TRUE
+poppy's pizza,poppy,15,2,FALSE
+patty's beauty salon,patty,15,8,TRUE
+maria's taco shop,maria,15,8,TRUE
+gloria's,gloria,15,3,FALSE
+kiki's,kiki,15,3,FALSE
+keith's superstore,keith,15,14,TRUE
+rick's body shop,rick,15,2,FALSE
+russ' restaurant,rus,15,15,TRUE
+frank's pizza and restaurant,frank,15,9,TRUE
+terry's auto sales,terry,15,2,FALSE
+mario's italian restaurant,mario,15,2,FALSE
+cody's,cody,15,6,TRUE
+tom's market,tom,15,2,FALSE
+riko's pizza,riko,15,9,TRUE
+bill's electric,bill,15,3,FALSE
+gandolfo's deli,gandolfo,15,8,TRUE
+adalberto's mexican food,adalberto,15,13,TRUE
+dan's auto,dan,15,3,FALSE
+ruth's beauty salon,ruth,15,3,FALSE
+stein's garden and home,stein,15,15,TRUE
+lacey's place,lacey,15,14,TRUE
+barbara's bookstore,barbara,15,15,TRUE
+pete's cafe,pete,15,3,FALSE
+matteo's,matteo,15,3,FALSE
+fernando's,fernando,15,3,FALSE
+dan's body shop,dan,15,3,FALSE
+cosmo's,cosmo,15,2,FALSE
+tommy's auto repair,tommy,15,3,FALSE
+paul's garage,paul,15,2,FALSE
+bob's pizza,bob,15,4,FALSE
+george's deli,george,15,4,FALSE
+kim's salon,kim,15,2,FALSE
+vinnie's pizza,vinnie,15,5,TRUE
+georgio's,georgio,15,4,FALSE
+michelle's hair salon,michelle,15,2,FALSE
+georgio's oven fresh pizza,georgio,15,15,TRUE
+kim's nails and spa,kim,15,7,TRUE
+vinny's italian grill and pizzeria,vinny,15,13,TRUE
+mary's,mary,15,4,FALSE
+conrad's,conrad,15,7,TRUE
+marvin's building materials,marvin,15,11,TRUE
+joe's barbershop,joe,15,5,TRUE
+ken's plumbing,ken,15,4,FALSE
+tom's place,tom,15,3,FALSE
+rigoberto's taco shop,rigoberto,15,9,TRUE
+ray's tree service,ray,15,3,FALSE
+mariano's pharmacy,mariano,15,15,TRUE
+macy's home store,macy,15,5,TRUE
+heidi's,heidi,15,2,FALSE
+wang's kitchen,wang,15,9,TRUE
+julia's,julia,15,2,FALSE
+jack's market,jack,15,3,FALSE
+juan's auto repair,juan,15,5,TRUE
+big bob's flooring outlet,bob,15,2,FALSE
+leo's pizzeria,leo,15,7,TRUE
+diamond jim's,jim,15,2,FALSE
+macey's,macey,15,15,TRUE
+mac's place,mac,15,2,FALSE
+mac's market,mac,15,8,TRUE
+vick's cleaners,vick,15,12,TRUE
+nonna's pizza,nonna,15,4,FALSE
+tod's,tod,15,3,FALSE
+vic's,vic,15,3,FALSE
+sharon's beauty salon,sharon,15,2,FALSE
+johnny's bar,johnny,15,2,FALSE
+lucky's bar,lucky,15,3,FALSE
+ike's place,ike,15,11,TRUE
+wayne's body shop,wayne,15,2,FALSE
+nouria's kitchen featuring amato's,nouria,15,8,TRUE
+sue's place,sue,15,3,FALSE
+oscar's restaurant,oscar,15,2,FALSE
+shirley's beauty salon,shirley,15,2,FALSE
+dean's auto sales,dean,15,3,FALSE
+henry's barber shop,henry,15,3,FALSE
+juanita's beauty salon,juanita,15,5,TRUE
+jackie's place,jackie,15,2,FALSE
+liang's kitchen,liang,15,12,TRUE
+cj's cafe,cj,15,4,FALSE
+deb's place,deb,15,2,FALSE
+amy's salon,amy,15,2,FALSE
+honey's,honey,15,3,FALSE
+aj's fine foods,aj,15,15,TRUE
+sunglass hut at macy's - closed location,macy,15,4,FALSE
+lisa's,lisa,15,2,FALSE
+joey's seafood and grill,joey,15,2,FALSE
+daniel's,daniel,15,2,FALSE
+john's auto,john,15,3,FALSE
+becky's,becky,15,3,FALSE
+nick's family restaurant,nick,15,2,FALSE
+archie's,archie,15,2,FALSE
+patrick's pub,patrick,15,4,FALSE
+sweet caroline's,caroline,15,2,FALSE
+cleo's furniture,cleo,15,14,TRUE
+sloppy joe's,joe,15,3,FALSE
+mamoun's falafel,mamoun,15,7,TRUE
+john's cafe,john,15,3,FALSE
+johnny's grill,johnny,15,3,FALSE
+maria's alterations,maria,15,2,FALSE
+greg's barber shop,greg,15,2,FALSE
+jay's auto sales,jay,15,3,FALSE
+tom's auto service,tom,15,3,FALSE
+young's food stores,young,15,15,TRUE
+dominick's pizza,dominick,15,7,TRUE
+alfonso's mexican food,alfonso,15,11,TRUE
+maggie's place,maggie,15,2,FALSE
+vincent's pizza,vincent,14,6,TRUE
+papa kelsey's pizza and subs,kelsey,14,11,TRUE
+anna's house,anna,14,11,TRUE
+fat mo's,mo,14,14,TRUE
+victor's,victor,14,3,FALSE
+fat jack's bbq,jack,14,6,TRUE
+jr's place,jr,14,4,FALSE
+mimi's kitchen,mimi,14,4,FALSE
+david's world cycle,david,14,14,TRUE
+camille's,camille,14,5,TRUE
+mike's handyman service,mike,14,6,TRUE
+pancho's mexican food,pancho,14,5,TRUE
+frank's auto body,frank,14,3,FALSE
+salvatore's,salvatore,14,3,FALSE
+franco's italian restaurant,franco,14,3,FALSE
+frank's auto sales,frank,14,5,TRUE
+vicky's beauty salon,vicky,14,4,FALSE
+mike's roofing,mike,14,2,FALSE
+bunny's,bunny,14,3,FALSE
+mike's transmissions,mike,14,4,FALSE
+tony's diner,tony,14,3,FALSE
+steve's auto care,steve,14,3,FALSE
+ken's electric,ken,14,2,FALSE
+penny's,penny,14,5,TRUE
+mike's landscaping,mike,14,2,FALSE
+jr's,jr,14,2,FALSE
+joe's tires,joe,14,4,FALSE
+anna's cafe,anna,14,6,TRUE
+carolyn's beauty salon,carolyn,14,2,FALSE
+victoria's hair salon,victoria,14,4,FALSE
+edy's,edy,14,3,FALSE
+dan's garage,dan,14,3,FALSE
+noah's ark daycare,noah,14,2,FALSE
+ed's body shop,ed,14,2,FALSE
+keith's auto repair,keith,14,2,FALSE
+ed's auto body,ed,14,3,FALSE
+tony's pizza and pasta,tony,14,5,TRUE
+nancy's cafe,nancy,14,3,FALSE
+dino's pizzeria,dino,14,5,TRUE
+nancy's hair salon,nancy,14,2,FALSE
+steve's tree service,steve,14,2,FALSE
+john's auto sales,john,14,2,FALSE
+joe's restaurant,joe,14,4,FALSE
+napoleon's bakery,napoleon,14,13,TRUE
+donna's,donna,14,4,FALSE
+nathan's famous hot dogs,nathan,14,3,FALSE
+bob's diner,bob,14,5,TRUE
+vincenzo's,vincenzo,14,5,TRUE
+patty's eggnest,patty,14,14,TRUE
+nelson's,nelson,14,2,FALSE
+nick's garage,nick,14,1,FALSE
+edy's ice cream,edy,14,5,TRUE
+dewey's,dewey,14,2,FALSE
+bella's pizzeria,bella,14,2,FALSE
+danny's place,danny,14,2,FALSE
+sam's gyros,sam,14,5,TRUE
+valentina's,valentina,14,3,FALSE
+famous sam's,sam,14,14,TRUE
+sylvia's,sylvia,14,2,FALSE
+rob's barber shop,rob,14,2,FALSE
+dee's place,dee,14,2,FALSE
+bob's bar,bob,14,3,FALSE
+moe's italian sandwiches,moe,14,13,TRUE
+paul's market,paul,14,6,TRUE
+bob's appliance service,bob,14,2,FALSE
+nonna's,nonna,14,2,FALSE
+delia's cleaners,delia,14,12,TRUE
+kelly's korner,kelly,14,2,FALSE
+ella's,ella,14,2,FALSE
+juanita's restaurant,juanita,14,4,FALSE
+judy's cafe,judy,14,2,FALSE
+danny's cycles,danny,14,10,TRUE
+norma's beauty salon,norma,14,4,FALSE
+elite bad credit loan's,loan,14,4,FALSE
+judy's place,judy,14,2,FALSE
+frank's car wash,frank,14,13,TRUE
+ten ren's tea time,ren,14,12,TRUE
+bob's burgers and brew,bob,14,14,TRUE
+winnie's,winnie,14,4,FALSE
+shirley's,shirley,14,3,FALSE
+poppy's place,poppy,14,4,FALSE
+scott's tree service,scott,14,2,FALSE
+jerry's auto,jerry,14,3,FALSE
+goldie's,goldie,14,2,FALSE
+scott's plumbing,scott,14,2,FALSE
+vincenzo's pizza,vincenzo,14,5,TRUE
+ray's,ray,14,2,FALSE
+big mike's,mike,14,2,FALSE
+marino's pizza,marino,14,3,FALSE
+ruby's beauty salon,ruby,14,5,TRUE
+gloria jean's coffee bean,gloria jean,14,4,FALSE
+tim's garage,tim,14,1,FALSE
+vito's,vito,14,2,FALSE
+stan's barber shop,stan,14,2,FALSE
+antonio's pizza and pasta,antonio,14,4,FALSE
+gina's pizza,gina,14,5,TRUE
+smokin' joe's bbq,joe,14,2,FALSE
+rick's electric,rick,14,2,FALSE
+jack's restaurant,jack,14,3,FALSE
+linda's cafe,linda,14,2,FALSE
+linda's hair salon,linda,14,3,FALSE
+gina's cafe,gina,14,3,FALSE
+lupita's bakery,lupita,14,6,TRUE
+gigi's pizza,gigi,14,3,FALSE
+powell's sweet shoppe,powell,14,12,TRUE
+lilly's,lilly,14,2,FALSE
+scott's garage,scott,14,3,FALSE
+jenny's beauty salon,jenny,14,7,TRUE
+aunt millie's,millie,14,3,FALSE
+jan's beauty salon,jan,14,3,FALSE
+lutfi's fried fish,lutfi,14,9,TRUE
+ward's,ward,14,13,TRUE
+mac's convenience store,mac,14,5,TRUE
+harry's place,harry,14,3,FALSE
+jake's barber shop,jake,14,3,FALSE
+tiffany's salon,tiffany,14,2,FALSE
+madison's,madison,14,3,FALSE
+alfredo's pizza,alfredo,14,4,FALSE
+sergio's restaurant,sergio,14,6,TRUE
+roy's barber shop,roy,14,3,FALSE
+happy joe's,joe,14,4,FALSE
+chris's auto repair,chris,14,3,FALSE
+anthony's shoe repair,anthony,14,10,TRUE
+manny's barber shop,manny,14,3,FALSE
+whitney's,whitney,14,3,FALSE
+tj's cafe,tj,14,3,FALSE
+lee's nails and spa,lee,14,3,FALSE
+richard's foodporium,richard,14,14,TRUE
+guido's pizza and pasta,guido,14,13,TRUE
+rachel's,rachel,14,2,FALSE
+marcello's pizza,marcello,14,7,TRUE
+the original stanford's,stanford,14,5,TRUE
+guido's,guido,14,4,FALSE
+jerry's place,jerry,14,4,FALSE
+chester's fried chicken,chester,14,3,FALSE
+ray's barbershop,ray,14,3,FALSE
+rico's,rico,14,4,FALSE
+teresa's mexican restaurant,teresa,14,6,TRUE
+pete's automotive,pete,14,2,FALSE
+gary's,gary,14,2,FALSE
+annie's attic,annie,14,3,FALSE
+garlic jim's,jim,14,9,TRUE
+king's fish house,king,14,11,TRUE
+pete's auto,pete,14,3,FALSE
+arlan's market,arlan,14,14,TRUE
+woody's bar and grill,woody,14,2,FALSE
+tommy's place,tommy,14,4,FALSE
+michelle's nails,michelle,14,4,FALSE
+michelle's salon,michelle,14,3,FALSE
+fred's stores of tennessee,fred,14,5,TRUE
+sammy's barber shop,sammy,14,5,TRUE
+bill's plumbing,bill,14,3,FALSE
+kim's market,kim,14,5,TRUE
+andy's plumbing,andy,14,3,FALSE
+bill's service center,bill,14,3,FALSE
+kim's barber shop,kim,14,3,FALSE
+lisa's place,lisa,14,3,FALSE
+ben's barber shop,ben,14,3,FALSE
+al's auto service,al,14,2,FALSE
+rudy's tacos,rudy,14,7,TRUE
+frank's liquor,frank,14,6,TRUE
+mike's construction,mike,14,3,FALSE
+phil's grill,phil,14,6,TRUE
+gary's auto body,gary,14,2,FALSE
+george's cafe,george,14,2,FALSE
+rosita's mexican restaurant,rosita,14,6,TRUE
+jim's,jim,14,5,TRUE
+lou's barber shop,lou,14,3,FALSE
+george's cleaners,george,14,5,TRUE
+gary's auto service,gary,14,3,FALSE
+jim's auto,jim,14,2,FALSE
+cici's,cici,14,5,TRUE
+jack's body shop,jack,14,2,FALSE
+mary's diner,mary,14,4,FALSE
+santana's mexican food,santana,14,13,TRUE
+pete's fresh market,pete,14,14,TRUE
+chuck's body shop,chuck,14,3,FALSE
+maverick's,maverick,14,4,FALSE
+gigi's cafe,gigi,14,3,FALSE
+celia's mexican restaurant,celia,14,13,TRUE
+ron's place,ron,14,2,FALSE
+lacey's place slots and video poker,lacey,14,14,TRUE
+apple annie's,annie,14,2,FALSE
+rodrigo's mexican grill,rodrigo,13,13,TRUE
+rosita's,rosita,13,3,FALSE
+rosie's pizza,rosie,13,3,FALSE
+cindy's cafe,cindy,13,2,FALSE
+raven's nest,raven,13,4,FALSE
+andy's burgers shakes and fries,andy,13,13,TRUE
+bud's broiler,bud,13,13,TRUE
+randy's body shop,randy,13,3,FALSE
+rosita's restaurant,rosita,13,5,TRUE
+andy's auto service,andy,13,2,FALSE
+buddy's bbq,buddy,13,3,FALSE
+pat's beauty salon,pat,13,2,FALSE
+rosie's beauty salon,rosie,13,6,TRUE
+randy's service center,randy,13,2,FALSE
+cindy's nail salon,cindy,13,7,TRUE
+carolyn's cafe,carolyn,13,2,FALSE
+randy's auto service,randy,13,2,FALSE
+woody's pizza,woody,13,2,FALSE
+"rudy's ""country store"" and bar-b-q",rudy,13,11,TRUE
+rick's garage,rick,13,2,FALSE
+connie's kitchen,connie,13,2,FALSE
+pf chang's to go,chang,13,5,TRUE
+brian's auto repair,brian,13,1,FALSE
+angelo's barber shop,angelo,13,6,TRUE
+rick's service center,rick,13,3,FALSE
+corky's ribs and bbq,corky,13,5,TRUE
+pete's market,pete,13,5,TRUE
+aj's auto repair,aj,13,3,FALSE
+ryan's barber shop,ryan,13,2,FALSE
+brian's automotive,brian,13,3,FALSE
+carolyn's beauty shop,carolyn,13,2,FALSE
+craig's auto repair,craig,13,2,FALSE
+ron's market,ron,13,3,FALSE
+andy's nails,andy,13,1,FALSE
+pepe's pizza,pepe,13,4,FALSE
+pietro's pizza,pietro,13,5,TRUE
+carmen's beauty salon,carmen,13,3,FALSE
+chelsea's,chelsea,13,4,FALSE
+anderson's,anderson,13,2,FALSE
+carl's auto repair,carl,13,2,FALSE
+claire's walmart,claire,13,3,FALSE
+walt's garage,walt,13,2,FALSE
+charlie's garage,charlie,13,2,FALSE
+danny's auto service,danny,13,3,FALSE
+charlie's bar,charlie,13,1,FALSE
+bradley's,bradley,13,2,FALSE
+patty's,patty,13,5,TRUE
+wong's chinese restaurant,wong,13,3,FALSE
+dan's tree service,dan,13,3,FALSE
+poor richard's,richard,13,3,FALSE
+roberto's,roberto,13,4,FALSE
+paul's,paul,13,2,FALSE
+carmen's,carmen,13,3,FALSE
+connie's beauty shop,connie,13,2,FALSE
+chan's garden,chan,13,3,FALSE
+dan's place,dan,13,3,FALSE
+rosa's,rosa,13,3,FALSE
+josie's,josie,13,5,TRUE
+dave's deli,dave,13,4,FALSE
+tom's body shop,tom,13,2,FALSE
+louie's barber shop,louie,13,4,FALSE
+jack's auto sales,jack,13,2,FALSE
+jack's bar and grill,jack,13,2,FALSE
+jack's bbq,jack,13,8,TRUE
+smokey joe's,joe,13,2,FALSE
+little joe's,joe,13,3,FALSE
+smokin joe's,joe,13,6,TRUE
+smokin' joe's,joe,13,3,FALSE
+jack's stir brew coffee,jack,13,13,TRUE
+jake's bar,jake,13,2,FALSE
+sofia's pizza,sofia,13,6,TRUE
+sonia's beauty salon,sonia,13,4,FALSE
+arturo's mexican restaurant,arturo,13,4,FALSE
+lenny's pizza,lenny,13,6,TRUE
+lenny's,lenny,13,2,FALSE
+jay's garage,jay,13,2,FALSE
+the robin's nest,robin,13,3,FALSE
+jen's place,jen,13,1,FALSE
+sophie's cuban cuisine,sophie,13,12,TRUE
+tina's beauty salon,tina,13,5,TRUE
+luciano's,luciano,13,2,FALSE
+lucille's,lucille,13,2,FALSE
+maggie's beauty salon,maggie,13,8,TRUE
+greg's place,greg,13,3,FALSE
+marcello's,marcello,13,3,FALSE
+bill's auto body,bill,13,3,FALSE
+hangry joe's,joe,13,4,FALSE
+sergio's,sergio,13,3,FALSE
+hank's,hank,13,2,FALSE
+magnolia's,magnolia,13,4,FALSE
+sergio's mexican restaurant,sergio,13,5,TRUE
+dave's pest control,dave,13,4,FALSE
+tina's hair salon,tina,13,2,FALSE
+lulu's cafe,lulu,13,2,FALSE
+lulu's boutique,lulu,13,2,FALSE
+antone's,antone,13,11,TRUE
+howard's,howard,13,3,FALSE
+bud's barber shop,bud,13,3,FALSE
+tito's tacos,tito,13,4,FALSE
+shirley's diner,shirley,13,2,FALSE
+indigo joe's,joe,13,2,FALSE
+terry's place,terry,13,2,FALSE
+betty's beauty shop,betty,13,2,FALSE
+terry's body shop,terry,13,2,FALSE
+sue's beauty salon,sue,13,2,FALSE
+kay's kitchen,kay,13,4,FALSE
+becky's place,becky,13,2,FALSE
+joe's tire shop,joe,13,5,TRUE
+karen's salon,karen,13,3,FALSE
+julio's,julio,13,5,TRUE
+john's cleaners,john,13,4,FALSE
+julie's beauty salon,julie,13,4,FALSE
+john's market,john,13,3,FALSE
+sue's kitchen,sue,13,3,FALSE
+joe's grill,joe,13,2,FALSE
+sullivan's,sullivan,13,4,FALSE
+joyce's beauty shop,joyce,13,3,FALSE
+joseph's,joseph,13,3,FALSE
+jose's auto repair,jose,13,6,TRUE
+johnson's garage,johnson,13,3,FALSE
+johnny's market,johnny,13,4,FALSE
+johnny's place,johnny,13,4,FALSE
+barton's,barton,13,9,TRUE
+sydnee's pet grooming,sydnee,13,11,TRUE
+joe's bagel and grill,joe,13,13,TRUE
+lee's cafe,lee,13,5,TRUE
+jesse's barber shop,jesse,13,5,TRUE
+alexander's restaurant,alexander,13,4,FALSE
+jerry's auto service,jerry,13,3,FALSE
+terry's auto repair,terry,13,3,FALSE
+jerry's famous deli,jerry,13,10,TRUE
+stefano's,stefano,13,2,FALSE
+bailey's pub and grille,bailey,13,3,FALSE
+jerry's plumbing and heating,jerry,13,3,FALSE
+beto's tacos,beto,13,6,TRUE
+terry's,terry,13,2,FALSE
+joe's auto body,joe,13,2,FALSE
+lam's garden,lam,13,3,FALSE
+jim's market,jim,13,3,FALSE
+king's,king,13,2,FALSE
+kim's restaurant,kim,13,7,TRUE
+teddy's,teddy,13,2,FALSE
+stephanie's,stephanie,13,5,TRUE
+kenny's ribs and chicken,kenny,13,9,TRUE
+ken's automotive,ken,13,2,FALSE
+maria's italian kitchen,maria,13,12,TRUE
+lupita's beauty salon,lupita,13,6,TRUE
+anthony's deli,anthony,13,4,FALSE
+tom's burgers,tom,13,12,TRUE
+molly's pub,molly,13,6,TRUE
+sam's food market,sam,13,3,FALSE
+tony's liquor,tony,13,6,TRUE
+elmo's pizza and subs,elmo,13,13,TRUE
+emma's,emma,13,2,FALSE
+ernie's barber shop,ernie,13,4,FALSE
+eva's beauty salon,eva,13,4,FALSE
+fat tony's,tony,13,3,FALSE
+eddie's place,eddie,13,3,FALSE
+floyd's,floyd,13,2,FALSE
+allen's automotive,allen,13,3,FALSE
+sam's mini mart,sam,13,3,FALSE
+mike's heating and air conditioning,mike,13,3,FALSE
+tony's bar,tony,13,3,FALSE
+mike's cafe,mike,13,4,FALSE
+mike's bbq,mike,13,3,FALSE
+monty's,monty,13,2,FALSE
+anna's,anna,13,2,FALSE
+al's automotive,al,13,3,FALSE
+diana's hair salon,diana,13,5,TRUE
+vic's barber shop,vic,13,3,FALSE
+pablo's,pablo,13,2,FALSE
+oscar's barber shop,oscar,13,5,TRUE
+oren's daily roast,oren,13,12,TRUE
+sam's auto repair,sam,13,2,FALSE
+norman's hallmark,norman,13,8,TRUE
+sam's auto service,sam,13,2,FALSE
+dolly's,dolly,13,4,FALSE
+allen's tree service,allen,13,3,FALSE
+dominic's,dominic,13,5,TRUE
+dominick's finer foods,dominick,13,13,TRUE
+nick's auto sales,nick,13,2,FALSE
+nick n willy's pizza,willy,13,3,FALSE
+don's used cars,don,13,2,FALSE
+dudley's,dudley,13,2,FALSE
+murray's cheese,murray,13,3,FALSE
+anna's taqueria,anna,13,12,TRUE
+mimi's café,mimi,13,2,FALSE
+bill's painting,bill,13,3,FALSE
+mary's alterations,mary,13,3,FALSE
+glen's market,glen,13,12,TRUE
+mario's tacos,mario,13,4,FALSE
+george's market,george,13,6,TRUE
+tom's tavern,tom,13,3,FALSE
+bill's dollar store,bill,13,5,TRUE
+ginger's,ginger,13,3,FALSE
+mark's place,mark,13,2,FALSE
+santana's,santana,13,6,TRUE
+marvin's,marvin,13,6,TRUE
+tom's plumbing,tom,13,2,FALSE
+gina's,gina,13,2,FALSE
+michael's tree service,michael,13,3,FALSE
+scott's auto service,scott,13,3,FALSE
+martin's auto repair,martin,13,2,FALSE
+anthony's barbershop,anthony,13,2,FALSE
+giovanni's pizza and pasta,giovanni,13,3,FALSE
+sandy's salon,sandy,13,2,FALSE
+michael's pizzeria,michael,13,4,FALSE
+marino's,marino,13,3,FALSE
+michael's cleaners,michael,13,4,FALSE
+marie's cafe,marie,13,2,FALSE
+gabriella's,gabriella,13,2,FALSE
+ron's auto service,ron,12,3,FALSE
+sully's steamers,sully,12,7,TRUE
+waldo's chicken and beer,waldo,12,5,TRUE
+tony's tires,tony,12,6,TRUE
+woody's diner,woody,12,9,TRUE
+van's nails,van,12,3,FALSE
+al's cafe,al,12,3,FALSE
+van's electric,van,12,2,FALSE
+sharon's,sharon,12,3,FALSE
+ron's auto,ron,12,2,FALSE
+sadie's,sadie,12,1,FALSE
+sweet melissa's,melissa,12,3,FALSE
+sam's auto body,sam,12,3,FALSE
+steve's deli,steve,12,4,TRUE
+sunny's cleaners,sunny,12,4,TRUE
+victoria's nails,victoria,12,2,FALSE
+aj's pizza,aj,12,2,FALSE
+victoria's salon,victoria,12,2,FALSE
+sunny's deli,sunny,12,1,FALSE
+sylvia's beauty salon,sylvia,12,1,FALSE
+tj's bar and grill,tj,12,3,FALSE
+tony's plumbing,tony,12,2,FALSE
+amelia's,amelia,12,2,FALSE
+tim's kitchen,tim,12,5,TRUE
+tim's auto service,tim,12,3,FALSE
+tillie's,tillie,12,2,FALSE
+tiffany's pizza,tiffany,12,10,TRUE
+vincenzo's pizzeria,vincenzo,12,5,TRUE
+alicia's beauty salon,alicia,12,7,TRUE
+tiffany's hair salon,tiffany,12,1,FALSE
+sandra's hair salon,sandra,12,3,FALSE
+sandy's restaurant,sandy,12,3,FALSE
+texas tom's,tom,12,8,TRUE
+sam's kitchen,sam,12,2,FALSE
+tommy's express,tommy,12,3,FALSE
+wong's wok,wong,12,6,TRUE
+andy's auto,andy,12,2,FALSE
+tony's family restaurant,tony,12,3,FALSE
+sam's furniture,sam,12,5,TRUE
+tommy's barber shop,tommy,12,4,TRUE
+tommy's auto sales,tommy,12,3,FALSE
+tina's place,tina,12,2,FALSE
+ron's repair,ron,12,2,FALSE
+simon's,simon,12,2,FALSE
+stefano's pizza,stefano,12,8,TRUE
+tom's service center,tom,12,2,FALSE
+scott's auto sales,scott,12,2,FALSE
+stella's cafe,stella,12,3,FALSE
+stella's ice cream,stella,12,8,TRUE
+steph and andy's pizza plus,andy,12,3,FALSE
+steph and andy's pizza plus,steph,12,3,FALSE
+tammy's,tammy,12,2,FALSE
+sandy's cleaners,sandy,12,6,TRUE
+lucy's kitchen,lucy,12,4,TRUE
+julian's,julian,12,2,FALSE
+emilio's,emilio,12,2,FALSE
+mamma mia's,mia,12,3,FALSE
+bitty and beau's coffee,beau,12,2,FALSE
+fletcher's,fletcher,12,3,FALSE
+maggie mae's,maggie mae,12,2,FALSE
+francesca's collections,francesca,12,2,FALSE
+lynn's hallmark,lynn,12,3,FALSE
+franco's pizzeria,franco,12,3,FALSE
+frank's deli,frank,12,4,TRUE
+frank's pizza and italian restaurant,frank,12,7,TRUE
+lucky's pub,lucky,12,4,TRUE
+frank's trattoria,frank,12,7,TRUE
+lucky's barber shop,lucky,12,5,TRUE
+lucky's bar and grill,lucky,12,3,FALSE
+lorena's beauty salon,lorena,12,5,TRUE
+fred's downtown philly,fred,12,12,TRUE
+lisa's chicken,lisa,12,12,TRUE
+lisa's cafe,lisa,12,2,FALSE
+bill's market,bill,12,5,TRUE
+lily's beauty salon,lily,12,5,TRUE
+libby's,libby,12,2,FALSE
+art's place,art,12,2,FALSE
+leroy's jewelers,leroy,12,4,TRUE
+leon's barber shop,leon,12,3,FALSE
+aunt millie's bakeries,millie,12,5,TRUE
+gary's electric,gary,12,2,FALSE
+fast freddy's,freddy,12,7,TRUE
+marcella's,marcella,12,3,FALSE
+lena's nails,lena,12,4,TRUE
+anthony's ladies apparel,anthony,12,12,TRUE
+mike's grill,mike,12,3,FALSE
+annabelle's,annabelle,12,2,FALSE
+mike's auto center,mike,12,4,TRUE
+diamond dave's,dave,12,7,TRUE
+miguel's,miguel,12,2,FALSE
+michael's arts and crafts,michael,12,3,FALSE
+dino's restaurant,dino,12,2,FALSE
+mel's,mel,12,3,FALSE
+maynard's food center,maynard,12,6,TRUE
+dj's,dj,12,2,FALSE
+matt's barber shop,matt,12,3,FALSE
+bob's auto,bob,12,2,FALSE
+don juan's,don juan,12,1,FALSE
+don's service center,don,12,2,FALSE
+dottie's,dottie,12,2,FALSE
+doug's auto body,doug,12,2,FALSE
+mary jane's house of glass,mary jane,12,8,TRUE
+jeff's barber shop,jeff,12,3,FALSE
+martino's pizza,martino,12,2,FALSE
+doug's place,doug,12,2,FALSE
+ed's auto service,ed,12,3,FALSE
+ed's electric,ed,12,2,FALSE
+mark's auto service,mark,12,2,FALSE
+mark's auto body,mark,12,2,FALSE
+ed's plumbing,ed,12,2,FALSE
+leo's barber shop,leo,12,3,FALSE
+lee's hamburgers,lee,12,12,TRUE
+mike's lawn care,mike,12,2,FALSE
+harry's restaurant,harry,12,2,FALSE
+helen's hot chicken,helen,12,9,TRUE
+henry's market,henry,12,5,TRUE
+hudson's furniture + mattress,hudson,12,12,TRUE
+johnny's pizzeria,johnny,12,3,FALSE
+johnny's automotive,johnny,12,4,TRUE
+illegal pete's,pete,12,10,TRUE
+john's restaurant,john,12,3,FALSE
+john's bar,john,12,3,FALSE
+john and mary's,mary,12,11,TRUE
+john and mary's,john,12,11,TRUE
+joe's tavern,joe,12,3,FALSE
+italo's pizza,italo,12,11,TRUE
+joe's auto glass,joe,12,3,FALSE
+jack's garage,jack,12,2,FALSE
+jimmy's restaurant,jimmy,12,3,FALSE
+beverly's,beverly,12,3,FALSE
+ben's mattress and furniture,ben,12,12,TRUE
+jason's auto repair,jason,12,2,FALSE
+jim's steakout,jim,12,12,TRUE
+jim's repair,jim,12,2,FALSE
+jim's plumbing,jim,12,2,FALSE
+java dave's,dave,12,6,TRUE
+jerry's electric,jerry,12,2,FALSE
+jay's market,jay,12,3,FALSE
+jeff's auto body,jeff,12,3,FALSE
+jr's bar and grill,jr,12,2,FALSE
+juanita's mexican restaurant,juanita,12,6,TRUE
+gene's body shop,gene,12,2,FALSE
+juanito's mexican restaurant,juanito,12,4,TRUE
+george's auto sales,george,12,2,FALSE
+george's family restaurant,george,12,4,TRUE
+bambino's pizza,bambino,12,4,TRUE
+gianni's,gianni,12,2,FALSE
+kim's tae kwon do,kim,12,2,FALSE
+gigi's boutique,gigi,12,3,FALSE
+kim's nail salon,kim,12,4,TRUE
+kim's nail and spa,kim,12,3,FALSE
+kim's hair design,kim,12,4,TRUE
+aaron's plumbing,aaron,12,2,FALSE
+kim's deli,kim,12,2,FALSE
+ken's auto body,ken,12,2,FALSE
+kelly's roast beef,kelly,12,9,TRUE
+kelly's coffee and fudge,kelly,12,12,TRUE
+goldie's patio grill,goldie,12,12,TRUE
+gordon's - closed,gordon,12,5,TRUE
+kasper's hot dogs,kasper,12,11,TRUE
+grace's place,grace,12,3,FALSE
+grandpa joe's candy shop,joe,12,6,TRUE
+karen's cafe,karen,12,1,FALSE
+julio's mexican restaurant,julio,12,5,TRUE
+bill's auto glass,bill,12,3,FALSE
+juliano's deli,juliano,12,11,TRUE
+romano's,romano,12,3,FALSE
+judy's kitchen,judy,12,2,FALSE
+debbie's,debbie,12,2,FALSE
+betty's cafe,betty,12,2,FALSE
+rich's car wash,rich,12,4,TRUE
+cynthia's beauty salon,cynthia,12,3,FALSE
+corky's kitchen and bakery,corky,12,12,TRUE
+angie's restaurant,angie,12,2,FALSE
+richard's automotive,richard,12,3,FALSE
+anita's,anita,12,2,FALSE
+norm's,norm,12,2,FALSE
+noah's ark learning center,noah,12,2,FALSE
+noah's ark day care,noah,12,3,FALSE
+carol's beauty shop,carol,12,3,FALSE
+dante's pizzeria,dante,12,5,TRUE
+bob's furniture,bob,12,3,FALSE
+paulie's,paulie,12,3,FALSE
+carmine's pizza,carmine,12,3,FALSE
+dan's auto service,dan,12,2,FALSE
+cj's pizza,cj,12,3,FALSE
+dan's deli,dan,12,8,TRUE
+dan's repair,dan,12,5,TRUE
+chandler's,chandler,12,2,FALSE
+bob's plumbing and heating,bob,12,2,FALSE
+rich's barber shop,rich,12,3,FALSE
+angie's pizza,angie,12,6,TRUE
+claudia's beauty salon,claudia,12,4,TRUE
+rebecca's,rebecca,12,2,FALSE
+chan's kitchen,chan,12,4,TRUE
+ray's donuts,ray,12,6,TRUE
+ray's cafe,ray,12,2,FALSE
+pat's pub,pat,12,3,FALSE
+paul's restaurant,paul,12,2,FALSE
+renee's salon,renee,12,2,FALSE
+rich's auto repair,rich,12,2,FALSE
+connie's creations,connie,12,2,FALSE
+parry's pizzeria and taphouse,parry,12,9,TRUE
+angie's cafe,angie,12,3,FALSE
+paul's tv,paul,12,6,TRUE
+carter's fried chicken,carter,12,12,TRUE
+pancho's tacos,pancho,12,7,TRUE
+paul's auto sales,paul,12,2,FALSE
+danny's auto sales,danny,12,2,FALSE
+carmelita's mexican restaurant,carmelita,12,5,TRUE
+mimmo's pizza,mimmo,12,4,TRUE
+ming's restaurant,ming,12,3,FALSE
+christine's nails,christine,12,3,FALSE
+chelo's hometown bar and grille,chelo,12,12,TRUE
+phil's place,phil,12,2,FALSE
+ming's,ming,12,3,FALSE
+rocky's barber shop,rocky,12,2,FALSE
+rocky's pizzeria,rocky,12,4,TRUE
+randy's pizza,randy,12,9,TRUE
+rob's mobile auto glass,rob,12,4,TRUE
+mimi's place,mimi,12,3,FALSE
+bud's place,bud,12,3,FALSE
+pino's,pino,12,5,TRUE
+ramiro's mexican food,ramiro,12,11,TRUE
+priscilla's,priscilla,12,2,FALSE
+roger's automotive,roger,12,2,FALSE
+david's tree service,david,12,2,FALSE
+nancy's place,nancy,12,2,FALSE
+rob's place,rob,12,3,FALSE
+ray's grocery,ray,12,3,FALSE
+mitchell's,mitchell,12,2,FALSE
+bobby and steve's auto world,steve,12,12,TRUE
+moe's pizza,moe,12,3,FALSE
+bobby and steve's auto world,bobby,12,12,TRUE
+angelo's italian restaurant,angelo,12,3,FALSE
+dave's landscaping,dave,12,2,FALSE
+andy's market,andy,12,2,FALSE
+mr ed's,ed,12,2,FALSE
+cj's bar and grill,cj,12,2,FALSE
+cheeseburger charley's,charley,12,12,TRUE
+bob's repair,bob,12,2,FALSE
+ann's place,ann,12,5,TRUE
+tom's appliance service,tom,11,4,TRUE
+harold's,harold,11,2,FALSE
+chang's mongolian grill,chang,11,7,TRUE
+chen's,chen,11,2,FALSE
+greg's japanese auto,greg,11,10,TRUE
+charlie's pub,charlie,11,3,FALSE
+greg's auto repair,greg,11,3,FALSE
+harry's bar,harry,11,2,FALSE
+bill's,bill,11,3,FALSE
+valentine's,valentine,11,3,FALSE
+toby's,toby,11,2,FALSE
+jack's urban eats,jack,11,11,TRUE
+tia's taco hut,tia,11,11,TRUE
+al's market,al,11,4,TRUE
+jay's place,jay,11,2,FALSE
+tiffany's beauty salon,tiffany,11,4,TRUE
+bucky's (bp),bucky,11,8,TRUE
+javier's,javier,11,4,TRUE
+betty's diner,betty,11,2,FALSE
+cactus jack's,jack,11,2,FALSE
+capital bad credit loan's,loan,11,3,FALSE
+jan's beauty shop,jan,11,2,FALSE
+jamie's,jamie,11,2,FALSE
+betty's place,betty,11,1,FALSE
+jake's diner,jake,11,7,TRUE
+jake's cafe,jake,11,2,FALSE
+young's barber shop,young,11,2,FALSE
+tj's diner,tj,11,2,FALSE
+carlo's bake shop,carlo,11,3,FALSE
+jack's carpet,jack,11,10,TRUE
+tin lizzy's cantina,lizzy,11,9,TRUE
+carol's,carol,11,1,FALSE
+caroline's,caroline,11,2,FALSE
+willie jewell's old school bar-b-q,jewell,11,5,TRUE
+isabel's beauty salon,isabel,11,4,TRUE
+tina's cafe,tina,11,3,FALSE
+irene's,irene,11,4,TRUE
+big ed's bbq,ed,11,4,TRUE
+tina's salon,tina,11,4,TRUE
+houston's restaurant,houston,11,3,FALSE
+henry's restaurant,henry,11,3,FALSE
+brenda's beauty shop,brenda,11,2,FALSE
+gordy's market,gordy,11,11,TRUE
+cj's tire and automotive services,cj,11,11,TRUE
+bonnie's,bonnie,11,3,FALSE
+bob's car wash,bob,11,3,FALSE
+donna's beauty salon,donna,11,2,FALSE
+donna's caribbean restaurant,donna,11,11,TRUE
+donna's nails,donna,11,2,FALSE
+dave's cafe,dave,11,3,FALSE
+doug's auto sales,doug,11,3,FALSE
+bob's cafe,bob,11,2,FALSE
+earl's barber shop,earl,11,2,FALSE
+david's auto sales,david,11,4,TRUE
+tony's mexican food,tony,11,5,TRUE
+damon's the place for ribs,damon,11,4,TRUE
+elmer's,elmer,11,2,FALSE
+dale's barber shop,dale,11,2,FALSE
+fast eddy's,eddy,11,2,FALSE
+foster's,foster,11,2,FALSE
+dave's plumbing and heating,dave,11,3,FALSE
+dj's pizza,dj,11,2,FALSE
+tom's donuts,tom,11,8,TRUE
+tyler's,tyler,11,5,TRUE
+debbie's place,debbie,11,2,FALSE
+dee's,dee,11,2,FALSE
+uncle giuseppe's marketplace,giuseppe,11,8,TRUE
+del's farm supply,del,11,7,TRUE
+valerie's taco shop,valerie,11,4,TRUE
+david's garage,david,11,2,FALSE
+diamond's hallmark,diamond,11,10,TRUE
+david's automotive,david,11,3,FALSE
+dick's auto body,dick,11,2,FALSE
+diego's,diego,11,3,FALSE
+aj's kitchen,aj,11,2,FALSE
+tucker's,tucker,11,5,TRUE
+david's burgers,david,11,11,TRUE
+dizzy dean's fireworks,dean,11,11,TRUE
+craig's collision center,craig,11,9,TRUE
+franco's,franco,11,2,FALSE
+vinny's barber shop,vinny,11,7,TRUE
+giacomo's,giacomo,11,3,FALSE
+gary's plumbing,gary,11,3,FALSE
+gene's auto repair,gene,11,2,FALSE
+gene's auto sales,gene,11,1,FALSE
+deb's cafe,deb,11,2,FALSE
+george's music,george,11,6,TRUE
+george's shoe repair,george,11,2,FALSE
+cindy's restaurant,cindy,11,3,FALSE
+frank's franks,frank,11,2,FALSE
+christal's,christal,11,5,TRUE
+tom's painting,tom,11,2,FALSE
+giuseppe's italian restaurant,giuseppe,11,3,FALSE
+gloria jean's gourmet coffee,gloria jean,11,2,FALSE
+wild bill's,bill,11,3,FALSE
+abel's quik shop,abel,11,11,TRUE
+gary's place,gary,11,2,FALSE
+bob's plumbing,bob,11,3,FALSE
+walt's barber shop,walt,11,3,FALSE
+tommy's garage,tommy,11,2,FALSE
+clementine's,clementine,11,1,FALSE
+fulin's asian cuisine,fulin,11,7,TRUE
+clyde's market,clyde,11,10,TRUE
+vito's pizzeria,vito,11,2,FALSE
+coco's restaurant and bakery,coco,11,9,TRUE
+bill's pizza,bill,11,4,TRUE
+connie's,connie,11,1,FALSE
+tommy's tanning,tommy,11,11,TRUE
+connie's beauty salon,connie,11,3,FALSE
+bill's restaurant,bill,11,4,TRUE
+bob's handyman service,bob,11,1,FALSE
+bill's taxidermy,bill,11,2,FALSE
+frank's grill,frank,11,10,TRUE
+doug's barber shop,doug,11,3,FALSE
+romano's pizzeria,romano,11,3,FALSE
+jenny's,jenny,11,3,FALSE
+alma's beauty salon,alma,11,8,TRUE
+mike's service,mike,11,2,FALSE
+mike's upholstery,mike,11,3,FALSE
+sam's italian foods,sam,11,11,TRUE
+ming's chinese restaurant,ming,11,2,FALSE
+miss kitty's,kitty,11,2,FALSE
+moe's place,moe,11,2,FALSE
+monica's,monica,11,1,FALSE
+morgan's,morgan,11,4,TRUE
+mr bill's,bill,11,2,FALSE
+nancy's coffee cafe,nancy,11,8,TRUE
+mike's mini mart,mike,11,2,FALSE
+nando's,nando,11,2,FALSE
+natalie's,natalie,11,2,FALSE
+ann's beauty shop,ann,11,3,FALSE
+nelly's beauty salon,nelly,11,5,TRUE
+nick's diner,nick,11,2,FALSE
+nick's gyros,nick,11,5,TRUE
+nicky's pizza,nicky,11,5,TRUE
+nico's pizza,nico,11,2,FALSE
+nico's taco shop,nico,11,10,TRUE
+mike's pest control,mike,11,3,FALSE
+mike's gym,mike,11,2,FALSE
+paddy's irish pub,paddy,11,2,FALSE
+mel's cafe,mel,11,2,FALSE
+mary's hair studio,mary,11,4,TRUE
+sara's beauty salon,sara,11,5,TRUE
+santino's pizza,santino,11,2,FALSE
+mary's market,mary,11,3,FALSE
+matt's auto repair,matt,11,2,FALSE
+matt's automotive,matt,11,2,FALSE
+annie's kitchen,annie,11,2,FALSE
+max's deli,max,11,2,FALSE
+sandy's nails,sandy,11,3,FALSE
+melanie's,melanie,11,4,TRUE
+mike's country store,mike,11,5,TRUE
+merle's automotive supply,merle,11,11,TRUE
+annie's alterations,annie,11,2,FALSE
+alice's beauty salon,alice,11,3,FALSE
+michelangelo's pizza,michelangelo,11,3,FALSE
+sammy's cafe,sammy,11,4,TRUE
+mike's appliance repair,mike,11,2,FALSE
+sam's tavern,sam,11,4,TRUE
+mike's automotive repair,mike,11,2,FALSE
+anna's place,anna,11,2,FALSE
+angie's place,angie,11,2,FALSE
+salvatore's pizzeria,salvatore,11,4,TRUE
+jenny's cafe,jenny,11,3,FALSE
+richard's barber shop,richard,11,3,FALSE
+randy's garage,randy,11,2,FALSE
+ray's auto body,ray,11,2,FALSE
+ray's bbq,ray,11,2,FALSE
+ray's body shop,ray,11,2,FALSE
+rosie's restaurant,rosie,11,3,FALSE
+rosie's place,rosie,11,3,FALSE
+andy's tree service,andy,11,2,FALSE
+red's auto repair,red,11,2,FALSE
+rosario's,rosario,11,2,FALSE
+rick's cabaret,rick,11,5,TRUE
+ruby's cafe,ruby,11,3,FALSE
+ron's tree service,ron,11,3,FALSE
+rick's repair,rick,11,3,FALSE
+ron's plumbing,ron,11,2,FALSE
+ricky's cafe,ricky,11,6,TRUE
+rico's pizzeria,rico,11,6,TRUE
+andy's auto sales,andy,11,2,FALSE
+roberto's mexican food,roberto,11,6,TRUE
+roger's auto sales,roger,11,2,FALSE
+ron's auto body,ron,11,3,FALSE
+polly's pies,polly,11,11,TRUE
+pj clarke's,clarke,11,6,TRUE
+angie's hair studio,angie,11,3,FALSE
+paul's plumbing and heating,paul,11,2,FALSE
+pat's bar and grill,pat,11,3,FALSE
+pat's cafe,pat,11,3,FALSE
+pat's garage,pat,11,3,FALSE
+sal's,sal,11,1,FALSE
+patti's place,patti,11,2,FALSE
+ryan's steakhouse,ryan,11,3,FALSE
+ryan's pub,ryan,11,3,FALSE
+paul's pizza,paul,11,2,FALSE
+paul's plumbing,paul,11,3,FALSE
+andy's auto body,andy,11,5,TRUE
+ruby's kitchen,ruby,11,3,FALSE
+paula's place,paula,11,2,FALSE
+pearl's,pearl,11,2,FALSE
+peggy's beauty salon,peggy,11,3,FALSE
+penny's concrete,penny,11,8,TRUE
+rush's,rush,11,10,TRUE
+rudy's mexican restaurant,rudy,11,8,TRUE
+angelo's burgers,angelo,11,11,TRUE
+rudy's bbq,rudy,11,6,TRUE
+pete's restaurant and brewhouse,pete,11,11,TRUE
+sarah's nails,sarah,11,5,TRUE
+sarah's place,sarah,11,2,FALSE
+mary's hair design,mary,11,2,FALSE
+sue's alterations,sue,11,2,FALSE
+bashas' pharmacy,basha,11,11,TRUE
+johnny's restaurant,johnny,11,3,FALSE
+aladdin's castle,aladdin,11,2,FALSE
+johnson's auto repair,johnson,11,3,FALSE
+johnson's roofing,johnson,11,2,FALSE
+jordan's kwik stop,jordan,11,10,TRUE
+joseph's cleaners,joseph,11,3,FALSE
+jr's auto repair,jr,11,2,FALSE
+jr's barber shop,jr,11,3,FALSE
+stewart's drive-in,stewart,11,10,TRUE
+john's service,john,11,2,FALSE
+julie's cafe,julie,11,3,FALSE
+julie's salon,julie,11,3,FALSE
+steve's service center,steve,11,2,FALSE
+steve's repair,steve,11,2,FALSE
+kane's furniture,kane,11,11,TRUE
+karen's kreations,karen,11,2,FALSE
+karen's place,karen,11,1,FALSE
+kathy's cafe,kathy,11,3,FALSE
+kathy's flowers,kathy,11,2,FALSE
+john's service center,john,11,2,FALSE
+john's seafood,john,11,4,TRUE
+mary jane's,mary jane,11,2,FALSE
+jimmy's automotive,jimmy,11,4,TRUE
+jerry and joe's pizza,jerry,11,11,TRUE
+jerry and joe's pizza,joe,11,11,TRUE
+jerry's bar,jerry,11,3,FALSE
+jerry's cafe,jerry,11,2,FALSE
+jesse's place,jesse,11,2,FALSE
+benjamin's,benjamin,11,2,FALSE
+teresa's beauty salon,teresa,11,5,TRUE
+jim's upholstery,jim,11,2,FALSE
+jimmy's auto repair,jimmy,11,2,FALSE
+jimmy's big burgers,jimmy,11,11,TRUE
+sunny's market,sunny,11,3,FALSE
+jimmy's diner,jimmy,11,1,FALSE
+tammy's hair salon,tammy,11,4,TRUE
+ben and jerry's ice cream,jerry,11,3,FALSE
+jimmy's pub,jimmy,11,3,FALSE
+joanne's nails,joanne,11,2,FALSE
+joe's american bar and grill,joe,11,5,TRUE
+ben and jerry's ice cream,ben,11,3,FALSE
+beef o' brady's,brady,11,6,TRUE
+susan's beauty salon,susan,11,2,FALSE
+kean's fine dry cleaning,kean,11,11,TRUE
+kelly's auto repair,kelly,11,2,FALSE
+ken's body shop,ken,11,2,FALSE
+maggie's farm,maggie,11,2,FALSE
+lucy's nails,lucy,11,3,FALSE
+sherry's,sherry,11,3,FALSE
+luna's mexican restaurant,luna,11,7,TRUE
+lupe's mexican restaurant,lupe,11,6,TRUE
+sharon's cafe,sharon,11,2,FALSE
+sharon's beauty shop,sharon,11,2,FALSE
+ma and pa's,ma,11,2,FALSE
+mac's barber shop,mac,11,2,FALSE
+maggie's cafe,maggie,11,3,FALSE
+scrambler marie's,marie,11,9,TRUE
+kevin's nails,kevin,11,2,FALSE
+manny's auto repair,manny,11,5,TRUE
+anthony's painting,anthony,11,2,FALSE
+scotty's automotive,scotty,11,3,FALSE
+maria's salon,maria,11,3,FALSE
+mariano's fresh market,mariano,11,11,TRUE
+anthony's automotive,anthony,11,3,FALSE
+martha's place,martha,11,2,FALSE
+martha's vineyard,martha,11,2,FALSE
+annie's salon,annie,11,3,FALSE
+lucy's bakery,lucy,11,4,TRUE
+lucky's lounge,lucky,11,2,FALSE
+simon's cafe,simon,11,6,TRUE
+logan's,logan,11,3,FALSE
+kevin's place,kevin,11,3,FALSE
+barnaby's,barnaby,11,3,FALSE
+kim's tailoring,kim,11,4,TRUE
+king's deli,king,11,4,TRUE
+stefano's pizzeria,stefano,11,3,FALSE
+larry's service center,larry,11,2,FALSE
+laura's,laura,11,3,FALSE
+le's nails and spa,le,11,5,TRUE
+alex's restaurant,alex,11,6,TRUE
+lee's auto sales,lee,11,2,FALSE
+lee's auto service,lee,11,1,FALSE
+lee's garage,lee,11,2,FALSE
+lee's tae kwon do,lee,11,2,FALSE
+leo's cafe,leo,11,3,FALSE
+sonny's barber shop,sonny,11,2,FALSE
+li's garden,li,11,2,FALSE
+arsenio's mexican food,arsenio,11,11,TRUE
+lina's mexican restaurant,lina,11,6,TRUE
+lisa's hair salon,lisa,11,2,FALSE
+kim's donuts,kim,11,4,TRUE
